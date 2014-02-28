@@ -1,1 +1,5 @@
 _site/
+_xml/
+Thumbs.db
+Desktop.ini
+.DS_Store
