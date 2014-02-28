@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        none
+
+# Setup
+title:            JoeCamp
+tagline:          'TAGLINE GOES HERE'
+description:      'DESCRIPTION GOES HERE'
+url:              http://camp.joecode.com
+
+author:
+  name:           'Joe Wilson'
+  url:            http://joecode.com
+
+paginate:         10
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/joewils/camp.joecode.com

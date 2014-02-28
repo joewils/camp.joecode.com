@@ -132,7 +132,7 @@ task :campground_data do
     end
 
     # Build Post
-    filename = 'posts/1975-05-31-' + campground['uid'] + '.html'
+    filename = '_posts/1975-05-31-' + campground['uid'] + '.html'
     puts "\t" + filename
     File.open(filename, 'w+') do |file|
       file.puts campground.to_yaml(line_width: -1)
@@ -146,8 +146,6 @@ end
 def pize(string)
   string = string.gsub('     ','~')
   string = string.gsub('    ','~')
-  string = string.gsub('   ','~')
-  string = string.gsub('  ','~')
   string = string.gsub('&lt;','<')
   string = string.gsub('&gt;','>')
   string_array = string.split('~')
