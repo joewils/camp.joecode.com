@@ -12,6 +12,14 @@ title: Home
       </a>
     </h1>
     {{ post.content }}
+
+    {% if post.description %}
+      {{ post.description }}
+    {% endif %}
+
+    {% if post.fullReservationUrl %}
+      <p><a href="{{ post.fullReservationUrl }}">Reserve Campground Today!</a></p>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

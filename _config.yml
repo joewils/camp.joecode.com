@@ -7,8 +7,8 @@ permalink:        none
 
 # Setup
 title:            JoeCamp
-tagline:          'TAGLINE GOES HERE'
-description:      'DESCRIPTION GOES HERE'
+tagline:          ''
+description:      ''
 url:              http://camp.joecode.com
 
 author:

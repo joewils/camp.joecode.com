@@ -108,9 +108,9 @@ task :campground_data do
 
     # photo
     campground['photos'] = []
-    doc.xpath('./detailDescription/photo').each do |node|
-      if node.attr('pbsrc')
-        campground['photos'].push(node.attr('pbsrc'))
+    doc.xpath('./detailDescription/photo').each_with_index do |node, index|
+      if node.attr('realUrl')
+        campground['photos'].push('http://www.recreation.gov/'+node.attr('realUrl').to_s.gsub('180x','540x').gsub('x120','x360'))
       end
     end
 

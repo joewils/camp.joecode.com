@@ -4,11 +4,23 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+
   {{ page.description }}
+
+  {% if page.photos[0] %}
+  <img src="{{page.photos[0]}}"/>
+  {% endif %}
+  
   {{ page.importantInformation }}
-  {{ page.drivingDirection }}
   {{ page.facilitiesDescription }}
   {{ page.orientationDescription }}
-  {{ page.fullReservationUrl }}
+
+  <h2>Get There:</h2>
+  {{ page.drivingDirection }}
+
   {{ content }}
+
+  {% if page.fullReservationUrl %}
+    <p><a href="{{ page.fullReservationUrl }}">Reserve Campground Today!</a></p>
+  {% endif %}
 </div>
