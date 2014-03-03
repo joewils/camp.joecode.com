@@ -35,7 +35,7 @@ task :campground_data do
   end
 
   # Export YAML
-  filename = '_data/campgrounds.yaml'
+  filename = '_data/campgrounds.yml'
   puts filename
   File.open(filename, 'w+') do |file|
     file.puts campgrounds.to_yaml(line_width: -1)
@@ -140,6 +140,31 @@ task :campground_data do
     end
 
   end
+
+  # Markers
+  campgrounds = YAML.load_file('_data/campgrounds.yml')
+  markers = {'markers' => []}
+  campgrounds.each do |id, campground|
+    if campground['latitude'] && campground['longitude']
+
+      link = '/'
+      campground['categories'].each do |cat|
+        link += cat + '/'
+      end
+      link += id + '.html'
+
+      markers['markers'].push({'latitude' => campground['latitude'], 
+                               'longitude' => campground['longitude'],
+                               'title' => '<a href="'+link+'">' + campground['title'] + '</a>',
+                               'content' => ''})
+    end
+  end
+  filename = 'json/markers.json'
+  puts "\t" + filename
+  File.open(filename, 'w+') do |file|
+    file.puts markers.to_json
+  end
+
 
 end
 

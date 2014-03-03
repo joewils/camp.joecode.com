@@ -15,7 +15,7 @@ author:
   name:           'Joe Wilson'
   url:            http://joecode.com
 
-paginate:         10
+paginate:         100
 
 # Custom vars
 version:          1.0.0
