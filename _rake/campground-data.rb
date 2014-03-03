@@ -28,8 +28,9 @@ task :campground_data do
       campground['title'] = fix_title(campground['facilityName'])
       campground['layout'] = 'campground'
       campground['categories'] = []
-      campground['categories'][0] = state.downcase
-      campground['categories'][1] = seo_string(campground['title'])
+      campground['categories'][0] = 'campground'
+      campground['categories'][1] = state.downcase
+      campground['categories'][2] = seo_string(campground['title'])
       campgrounds[uid] = campground unless campground['contractType'] == 'PRIVATE'
     end
   end

@@ -23,6 +23,7 @@ WA71642:
   title: Adams Fork Campground
   layout: campground
   categories:
+  - campground
   - wa
   - adams-fork-campground
 WA73941:
@@ -49,6 +50,7 @@ WA73941:
   title: American Ridge Lodge
   layout: campground
   categories:
+  - campground
   - wa
   - american-ridge-lodge
 WA75377:
@@ -75,6 +77,7 @@ WA75377:
   title: American River Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - american-river-guard-station
 WA71571:
@@ -101,6 +104,7 @@ WA71571:
   title: Atkisson Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - atkisson-group-camp
 WA73818:
@@ -127,6 +131,7 @@ WA73818:
   title: Bayview North Campground
   layout: campground
   categories:
+  - campground
   - wa
   - bayview-north-campground
 WA73819:
@@ -153,6 +158,7 @@ WA73819:
   title: Bayview South Campground
   layout: campground
   categories:
+  - campground
   - wa
   - bayview-south-campground
 WA71650:
@@ -179,6 +185,7 @@ WA71650:
   title: Beaver Campground
   layout: campground
   categories:
+  - campground
   - wa
   - beaver-campground
 WA70763:
@@ -205,6 +212,7 @@ WA70763:
   title: 'Beaver Creek Group Camp '
   layout: campground
   categories:
+  - campground
   - wa
   - beaver-creek-group-camp
 WA70234:
@@ -231,6 +239,7 @@ WA70234:
   title: Beckler River Campground
   layout: campground
   categories:
+  - campground
   - wa
   - beckler-river-campground
 WA73775:
@@ -257,6 +266,7 @@ WA73775:
   title: Bedal Campground
   layout: campground
   categories:
+  - campground
   - wa
   - bedal-campground
 WA74098:
@@ -283,6 +293,7 @@ WA74098:
   title: Big Creek
   layout: campground
   categories:
+  - campground
   - wa
   - big-creek
 WA73547:
@@ -309,6 +320,7 @@ WA73547:
   title: Blue Lake Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - blue-lake-creek-campground
 WA71990:
@@ -335,6 +347,7 @@ WA71990:
   title: Boardman Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - boardman-group-camp
 WA70241:
@@ -361,6 +374,7 @@ WA70241:
   title: Boulder Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - boulder-creek-campground
 WA73880:
@@ -387,6 +401,7 @@ WA73880:
   title: Bridge Creek Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - bridge-creek-group-site
 WA73772:
@@ -413,6 +428,7 @@ WA73772:
   title: Buck Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - buck-creek-campground
 WA70706:
@@ -439,6 +455,7 @@ WA70706:
   title: Bumping Lake Campground
   layout: campground
   categories:
+  - campground
   - wa
   - bumping-lake-campground
 WA73720:
@@ -465,6 +482,7 @@ WA73720:
   title: Cayuse Horse Camp
   layout: campground
   categories:
+  - campground
   - wa
   - cayuse-horse-camp
 WA74024:
@@ -491,6 +509,7 @@ WA74024:
   title: 'Cedar Springs Campground (WA) '
   layout: campground
   categories:
+  - campground
   - wa
   - cedar-springs-campground-wa
 WA73119:
@@ -517,6 +536,7 @@ WA73119:
   title: Charbonneau Pk
   layout: campground
   categories:
+  - campground
   - wa
   - charbonneau-pk
 WA73879:
@@ -543,6 +563,7 @@ WA73879:
   title: Chatter Creek Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - chatter-creek-group-site
 WA73491:
@@ -569,6 +590,7 @@ WA73491:
   title: Cle Elum River Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - cle-elum-river-group-site
 WA73776:
@@ -595,6 +617,7 @@ WA73776:
   title: Clear Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - clear-creek-campground
 WA73945:
@@ -621,6 +644,7 @@ WA73945:
   title: Clear Lake Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - clear-lake-group-site
 WA75126:
@@ -647,6 +671,7 @@ WA75126:
   title: Clearwater Big House
   layout: campground
   categories:
+  - campground
   - wa
   - clearwater-big-house
 WA75125:
@@ -673,6 +698,7 @@ WA75125:
   title: Clearwater Lookout Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - clearwater-lookout-cabin
 WA70765:
@@ -699,6 +725,7 @@ WA70765:
   title: Coal Creek Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - coal-creek-group-camp
 WA72427:
@@ -725,6 +752,7 @@ WA72427:
   title: Coho Campground
   layout: campground
   categories:
+  - campground
   - wa
   - coho-campground
 WA72029:
@@ -751,6 +779,7 @@ WA72029:
   title: Cottonwood Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - cottonwood-cabin
 WA74015:
@@ -777,6 +806,7 @@ WA74015:
   title: Cottonwood Campground (WA)
   layout: campground
   categories:
+  - campground
   - wa
   - cottonwood-campground-wa
 WA74021:
@@ -803,6 +833,7 @@ WA74021:
   title: Cougar Flat
   layout: campground
   categories:
+  - campground
   - wa
   - cougar-flat
 WA70946:
@@ -829,6 +860,7 @@ WA70946:
   title: Cougar Rock Campground
   layout: campground
   categories:
+  - campground
   - wa
   - cougar-rock-campground
 WA70992:
@@ -855,6 +887,7 @@ WA70992:
   title: Cougar Rock Group Campground
   layout: campground
   categories:
+  - campground
   - wa
   - cougar-rock-group-campground
 WA70256:
@@ -881,6 +914,7 @@ WA70256:
   title: Denny Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - denny-creek-campground
 WA70259:
@@ -907,6 +941,7 @@ WA70259:
   title: Douglas Fir Campground
   layout: campground
   categories:
+  - campground
   - wa
   - douglas-fir-campground
 WA73954:
@@ -933,6 +968,7 @@ WA73954:
   title: East Kachess Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - east-kachess-group-site
 WA70195:
@@ -959,6 +995,7 @@ WA70195:
   title: East Sullivan
   layout: campground
   categories:
+  - campground
   - wa
   - east-sullivan
 WA74165:
@@ -985,6 +1022,7 @@ WA74165:
   title: Edgewater Campground
   layout: campground
   categories:
+  - campground
   - wa
   - edgewater-campground
 WA73882:
@@ -1011,6 +1049,7 @@ WA73882:
   title: Eightmile Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - eightmile-group-site
 WA70764:
@@ -1037,6 +1076,7 @@ WA70764:
   title: Esswine Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - esswine-group-camp
 WA74072:
@@ -1063,6 +1103,7 @@ WA74072:
   title: Evans Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - evans-group-camp
 WA75017:
@@ -1089,6 +1130,7 @@ WA75017:
   title: Evergreen Mountain Lookout
   layout: campground
   categories:
+  - campground
   - wa
   - evergreen-mountain-lookout
 WA470034:
@@ -1115,6 +1157,7 @@ WA470034:
   title: Evergreen State Fairgrounds
   layout: campground
   categories:
+  - campground
   - wa
   - evergreen-state-fairgrounds
 WA70264:
@@ -1141,6 +1184,7 @@ WA70264:
   title: Excelsior Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - excelsior-group-camp
 WA73186:
@@ -1167,6 +1211,7 @@ WA73186:
   title: Fishhook Park
   layout: campground
   categories:
+  - campground
   - wa
   - fishhook-park
 WA470029:
@@ -1193,6 +1238,7 @@ WA470029:
   title: Flowing Lake County Park
   layout: campground
   categories:
+  - campground
   - wa
   - flowing-lake-county-park
 WA74069:
@@ -1219,6 +1265,7 @@ WA74069:
   title: Fort Spokane
   layout: campground
   categories:
+  - campground
   - wa
   - fort-spokane
 WA74076:
@@ -1245,6 +1292,7 @@ WA74076:
   title: Fort Spokane Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - fort-spokane-group-site
 WA74074:
@@ -1271,6 +1319,7 @@ WA74074:
   title: Gifford Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - gifford-group-site
 WA75124:
@@ -1297,6 +1346,7 @@ WA75124:
   title: Godman Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - godman-guard-station
 WA70272:
@@ -1323,6 +1373,7 @@ WA70272:
   title: Gold Basin Campground
   layout: campground
   categories:
+  - campground
   - wa
   - gold-basin-campground
 WA71573:
@@ -1349,6 +1400,7 @@ WA71573:
   title: Goose Lake
   layout: campground
   categories:
+  - campground
   - wa
   - goose-lake
 WA74103:
@@ -1375,6 +1427,7 @@ WA74103:
   title: Govt Mineral Springs Guard Sta
   layout: campground
   categories:
+  - campground
   - wa
   - govt-mineral-springs-guard-sta
 WA97270:
@@ -1401,6 +1454,7 @@ WA97270:
   title: Grouse Creek Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - grouse-creek-group-site
 WA73591:
@@ -1427,6 +1481,7 @@ WA73591:
   title: Hamma Hamma Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - hamma-hamma-cabin
 WA74018:
@@ -1453,6 +1508,7 @@ WA74018:
   title: Hause Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - hause-creek-campground
 WA74019:
@@ -1479,6 +1535,7 @@ WA74019:
   title: Hells Crossing Campground
   layout: campground
   categories:
+  - campground
   - wa
   - hells-crossing-campground
 WA73210:
@@ -1505,6 +1562,7 @@ WA73210:
   title: Hood Park
   layout: campground
   categories:
+  - campground
   - wa
   - hood-park
 WA70281:
@@ -1531,6 +1589,7 @@ WA70281:
   title: Horseshoe Cove Campground
   layout: campground
   categories:
+  - campground
   - wa
   - horseshoe-cove-campground
 WA74075:
@@ -1557,6 +1616,7 @@ WA74075:
   title: Hunters Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - hunters-group-site
 WA112839:
@@ -1583,6 +1643,7 @@ WA112839:
   title: Icicle Group Campground
   layout: campground
   categories:
+  - campground
   - wa
   - icicle-group-campground
 WA71688:
@@ -1609,6 +1670,7 @@ WA71688:
   title: Indian Creek (WA)
   layout: campground
   categories:
+  - campground
   - wa
   - indian-creek-wa
 WA73943:
@@ -1635,6 +1697,7 @@ WA73943:
   title: Indian Flat Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - indian-flat-group-site
 WA73594:
@@ -1661,6 +1724,7 @@ WA73594:
   title: Interrorem Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - interrorem-cabin
 WA71638:
@@ -1687,6 +1751,7 @@ WA71638:
   title: Iron Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - iron-creek-campground
 WA70286:
@@ -1713,6 +1778,7 @@ WA70286:
   title: Kachess
   layout: campground
   categories:
+  - campground
   - wa
   - kachess
 WA70944:
@@ -1739,6 +1805,7 @@ WA70944:
   title: Kalaloch
   layout: campground
   categories:
+  - campground
   - wa
   - kalaloch
 WA73942:
@@ -1765,6 +1832,7 @@ WA73942:
   title: Kaner Flat Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - kaner-flat-group-site
 WA470021:
@@ -1791,6 +1859,7 @@ WA470021:
   title: Kayak Point County Park
   layout: campground
   categories:
+  - campground
   - wa
   - kayak-point-county-park
 WA74070:
@@ -1817,6 +1886,7 @@ WA74070:
   title: Keller Ferry Campground
   layout: campground
   categories:
+  - campground
   - wa
   - keller-ferry-campground
 WA74077:
@@ -1843,6 +1913,7 @@ WA74077:
   title: Keller Ferry Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - keller-ferry-group-site
 WA74068:
@@ -1869,6 +1940,7 @@ WA74068:
   title: Kettle Falls Campground
   layout: campground
   categories:
+  - campground
   - wa
   - kettle-falls-campground
 WA74073:
@@ -1895,6 +1967,7 @@ WA74073:
   title: Kettle Falls Locust Grove Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - kettle-falls-locust-grove-group-site
 WA73799:
@@ -1921,6 +1994,7 @@ WA73799:
   title: La Wis Wis Campground
   layout: campground
   categories:
+  - campground
   - wa
   - la-wis-wis-campground
 WA470023:
@@ -1947,6 +2021,7 @@ WA470023:
   title: Lake Goodwin Community Park
   layout: campground
   categories:
+  - campground
   - wa
   - lake-goodwin-community-park
 WA74020:
@@ -1973,6 +2048,7 @@ WA74020:
   title: Little Naches Campground
   layout: campground
   categories:
+  - campground
   - wa
   - little-naches-campground
 WA74029:
@@ -1999,6 +2075,7 @@ WA74029:
   title: Lodgepole Campground (WA)
   layout: campground
   categories:
+  - campground
   - wa
   - lodgepole-campground-wa
 WA75171:
@@ -2025,6 +2102,7 @@ WA75171:
   title: Lost Lake Group Unit
   layout: campground
   categories:
+  - campground
   - wa
   - lost-lake-group-unit
 WA73567:
@@ -2051,6 +2129,7 @@ WA73567:
   title: Louella Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - louella-cabin
 WA116439:
@@ -2077,6 +2156,7 @@ WA116439:
   title: Lower Falls Campground
   layout: campground
   categories:
+  - campground
   - wa
   - lower-falls-campground
 WA74100:
@@ -2103,6 +2183,7 @@ WA74100:
   title: Lower Goodell Group Campground
   layout: campground
   categories:
+  - campground
   - wa
   - lower-goodell-group-campground
 WA73773:
@@ -2129,6 +2210,7 @@ WA73773:
   title: Marble Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - marble-creek-campground
 WA70767:
@@ -2155,6 +2237,7 @@ WA70767:
   title: Marten Creek Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - marten-creek-group-camp
 WA470035:
@@ -2181,6 +2264,7 @@ WA470035:
   title: Martha Lake
   layout: campground
   categories:
+  - campground
   - wa
   - martha-lake
 WA470026:
@@ -2207,6 +2291,7 @@ WA470026:
   title: Mc Collum Park
   layout: campground
   categories:
+  - campground
   - wa
   - mc-collum-park
 WA75386:
@@ -2233,6 +2318,7 @@ WA75386:
   title: Middle Fork Campground
   layout: campground
   categories:
+  - campground
   - wa
   - middle-fork-campground
 WA70296:
@@ -2259,6 +2345,7 @@ WA70296:
   title: Miller River Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - miller-river-group-camp
 WA470200:
@@ -2285,6 +2372,7 @@ WA470200:
   title: Miner&Apos;S Corner
   layout: campground
   categories:
+  - campground
   - wa
   - minerapos;s-corner
 WA73820:
@@ -2311,6 +2399,7 @@ WA73820:
   title: Mineral Park Campground
   layout: campground
   categories:
+  - campground
   - wa
   - mineral-park-campground
 WA70815:
@@ -2337,6 +2426,7 @@ WA70815:
   title: Mineral Springs Group
   layout: campground
   categories:
+  - campground
   - wa
   - mineral-springs-group
 WA70298:
@@ -2363,6 +2453,7 @@ WA70298:
   title: Money Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - money-creek-campground
 WA71574:
@@ -2389,6 +2480,7 @@ WA71574:
   title: Moss Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - moss-creek-campground
 WA74067:
@@ -2415,6 +2507,7 @@ WA74067:
   title: Newhalem Campground
   layout: campground
   categories:
+  - campground
   - wa
   - newhalem-campground
 WA70196:
@@ -2441,6 +2534,7 @@ WA70196:
   title: Noisy Creek
   layout: campground
   categories:
+  - campground
   - wa
   - noisy-creek
 WA470024:
@@ -2467,6 +2561,7 @@ WA470024:
   title: North Creek County Park
   layout: campground
   categories:
+  - campground
   - wa
   - north-creek-county-park
 WA71700:
@@ -2493,6 +2588,7 @@ WA71700:
   title: North Fork Bear Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - north-fork-bear-group-camp
 WA71701:
@@ -2519,6 +2615,7 @@ WA71701:
   title: North Fork Beaver Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - north-fork-beaver-group-camp
 WA71637:
@@ -2545,6 +2642,7 @@ WA71637:
   title: North Fork Campground (WA)
   layout: campground
   categories:
+  - campground
   - wa
   - north-fork-campground-wa
 WA71702:
@@ -2571,6 +2669,7 @@ WA71702:
   title: North Fork Elk Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - north-fork-elk-group-camp
 WA70945:
@@ -2597,6 +2696,7 @@ WA70945:
   title: Ohanapecosh Campground
   layout: campground
   categories:
+  - campground
   - wa
   - ohanapecosh-campground
 WA70991:
@@ -2623,6 +2723,7 @@ WA70991:
   title: Ohanapecosh Group Campground
   layout: campground
   categories:
+  - campground
   - wa
   - ohanapecosh-group-campground
 WA71575:
@@ -2649,6 +2750,7 @@ WA71575:
   title: Oklahoma Campground
   layout: campground
   categories:
+  - campground
   - wa
   - oklahoma-campground
 WA470025:
@@ -2675,6 +2777,7 @@ WA470025:
   title: Paine Field Community Park
   layout: campground
   categories:
+  - campground
   - wa
   - paine-field-community-park
 WA73897:
@@ -2701,6 +2804,7 @@ WA73897:
   title: Panhandle
   layout: campground
   categories:
+  - campground
   - wa
   - panhandle
 WA70308:
@@ -2727,6 +2831,7 @@ WA70308:
   title: Panorama Point Campground
   layout: campground
   categories:
+  - campground
   - wa
   - panorama-point-campground
 WA71966:
@@ -2753,6 +2858,7 @@ WA71966:
   title: Panther Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - panther-creek-campground
 WA71648:
@@ -2779,6 +2885,7 @@ WA71648:
   title: Paradise Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - paradise-creek-campground
 WA70309:
@@ -2805,6 +2912,7 @@ WA70309:
   title: Park Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - park-creek-campground
 WA71698:
@@ -2831,6 +2939,7 @@ WA71698:
   title: Peterson Prairie Campground
   layout: campground
   categories:
+  - campground
   - wa
   - peterson-prairie-campground
 WA74104:
@@ -2857,6 +2966,7 @@ WA74104:
   title: Peterson Prairie Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - peterson-prairie-guard-station
 WA73956:
@@ -2883,6 +2993,7 @@ WA73956:
   title: Pine Flats (WA)
   layout: campground
   categories:
+  - campground
   - wa
   - pine-flats-wa
 WA73944:
@@ -2909,6 +3020,7 @@ WA73944:
   title: Pine Needle Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - pine-needle-group-site
 WA73898:
@@ -2935,6 +3047,7 @@ WA73898:
   title: Pioneer Park
   layout: campground
   categories:
+  - campground
   - wa
   - pioneer-park
 WA74022:
@@ -2961,6 +3074,7 @@ WA74022:
   title: Pleasant Valley Campground
   layout: campground
   categories:
+  - campground
   - wa
   - pleasant-valley-campground
 WA73346:
@@ -2987,6 +3101,7 @@ WA73346:
   title: Plymouth Park
   layout: campground
   categories:
+  - campground
   - wa
   - plymouth-park
 WA73777:
@@ -3013,6 +3128,7 @@ WA73777:
   title: 'Red Bridge Campground '
   layout: campground
   categories:
+  - campground
   - wa
   - red-bridge-campground
 WA470031:
@@ -3039,6 +3155,7 @@ WA470031:
   title: River Meadows County Park
   layout: campground
   categories:
+  - campground
   - wa
   - river-meadows-county-park
 WA72173:
@@ -3065,6 +3182,7 @@ WA72173:
   title: Rooks Park (WA) Bennington Lake
   layout: campground
   categories:
+  - campground
   - wa
   - rooks-park-wa-bennington-lake
 WA75383:
@@ -3091,6 +3209,7 @@ WA75383:
   title: Salmon Cove Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - salmon-cove-group-site
 WA70321:
@@ -3117,6 +3236,7 @@ WA70321:
   title: Salmon La Sac
   layout: campground
   categories:
+  - campground
   - wa
   - salmon-la-sac
 WA74023:
@@ -3143,6 +3263,7 @@ WA74023:
   title: Sawmill Flat Campground
   layout: campground
   categories:
+  - campground
   - wa
   - sawmill-flat-campground
 WA70323:
@@ -3169,6 +3290,7 @@ WA70323:
   title: Shannon Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - shannon-creek-campground
 WA73955:
@@ -3195,6 +3317,7 @@ WA73955:
   title: Silver Falls Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - silver-falls-group-site
 WA70326:
@@ -3221,6 +3344,7 @@ WA70326:
   title: Silver Fir Campground
   layout: campground
   categories:
+  - campground
   - wa
   - silver-fir-campground
 WA70607:
@@ -3247,6 +3371,7 @@ WA70607:
   title: Silver Springs Campground
   layout: campground
   categories:
+  - campground
   - wa
   - silver-springs-campground
 WA94669:
@@ -3273,6 +3398,7 @@ WA94669:
   title: Snow Peak Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - snow-peak-cabin
 WA74025:
@@ -3299,6 +3425,7 @@ WA74025:
   title: Soda Springs Campground
   layout: campground
   categories:
+  - campground
   - wa
   - soda-springs-campground
 WA75388:
@@ -3325,6 +3452,7 @@ WA75388:
   title: South Fork Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - south-fork-group-site
 WA74071:
@@ -3351,6 +3479,7 @@ WA74071:
   title: Spring Canyon
   layout: campground
   categories:
+  - campground
   - wa
   - spring-canyon
 WA74078:
@@ -3377,6 +3506,7 @@ WA74078:
   title: Spring Canyon Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - spring-canyon-group-site
 WA470032:
@@ -3403,6 +3533,7 @@ WA470032:
   title: Squire Creek County Park
   layout: campground
   categories:
+  - campground
   - wa
   - squire-creek-county-park
 WA75063:
@@ -3429,6 +3560,7 @@ WA75063:
   title: Suiattle Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - suiattle-guard-station
 WA110542:
@@ -3455,6 +3587,7 @@ WA110542:
   title: Sunset Falls Campground
   layout: campground
   categories:
+  - campground
   - wa
   - sunset-falls-campground
 WA75544:
@@ -3481,6 +3614,7 @@ WA75544:
   title: Swan Lake Kitchen
   layout: campground
   categories:
+  - campground
   - wa
   - swan-lake-kitchen
 WA72307:
@@ -3507,6 +3641,7 @@ WA72307:
   title: Swift Creek Campground
   layout: campground
   categories:
+  - campground
   - wa
   - swift-creek-campground
 WA74148:
@@ -3533,6 +3668,7 @@ WA74148:
   title: Table Mountain A Frame
   layout: campground
   categories:
+  - campground
   - wa
   - table-mountain-a-frame
 WA71647:
@@ -3559,6 +3695,7 @@ WA71647:
   title: 'Takhlakh Lake Campground '
   layout: campground
   categories:
+  - campground
   - wa
   - takhlakh-lake-campground
 WA470150:
@@ -3585,6 +3722,7 @@ WA470150:
   title: Tambark Creek
   layout: campground
   categories:
+  - campground
   - wa
   - tambark-creek
 WA73568:
@@ -3611,6 +3749,7 @@ WA73568:
   title: Taneum Cabin
   layout: campground
   categories:
+  - campground
   - wa
   - taneum-cabin
 WA74147:
@@ -3637,6 +3776,7 @@ WA74147:
   title: Teanaway Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - teanaway-guard-station
 WA70253:
@@ -3663,6 +3803,7 @@ WA70253:
   title: The Dalles Campground
   layout: campground
   categories:
+  - campground
   - wa
   - the-dalles-campground
 WA70345:
@@ -3689,6 +3830,7 @@ WA70345:
   title: Tinkham Campground
   layout: campground
   categories:
+  - campground
   - wa
   - tinkham-campground
 WA71640:
@@ -3715,6 +3857,7 @@ WA71640:
   title: 'Tower Rock Campground '
   layout: campground
   categories:
+  - campground
   - wa
   - tower-rock-campground
 WA70639:
@@ -3741,6 +3884,7 @@ WA70639:
   title: Troublesome Campground
   layout: campground
   categories:
+  - campground
   - wa
   - troublesome-campground
 WA96469:
@@ -3767,6 +3911,7 @@ WA96469:
   title: Tucannon Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - tucannon-guard-station
 WA70768:
@@ -3793,6 +3938,7 @@ WA70768:
   title: Tulalip Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - tulalip-group-camp
 WA73881:
@@ -3819,6 +3965,7 @@ WA73881:
   title: Tumwater Group Site
   layout: campground
   categories:
+  - campground
   - wa
   - tumwater-group-site
 WA70351:
@@ -3845,6 +3992,7 @@ WA70351:
   title: Turlo Campground
   layout: campground
   categories:
+  - campground
   - wa
   - turlo-campground
 WA74101:
@@ -3871,6 +4019,7 @@ WA74101:
   title: Upper Goodell Group Campground
   layout: campground
   categories:
+  - campground
   - wa
   - upper-goodell-group-campground
 WA70353:
@@ -3897,6 +4046,7 @@ WA70353:
   title: Verlot Campground
   layout: campground
   categories:
+  - campground
   - wa
   - verlot-campground
 WA71646:
@@ -3923,6 +4073,7 @@ WA71646:
   title: WAlupt Lake Campground
   layout: campground
   categories:
+  - campground
   - wa
   - walupt-lake-campground
 WA75123:
@@ -3949,6 +4100,7 @@ WA75123:
   title: Wenatchee Guard Station
   layout: campground
   categories:
+  - campground
   - wa
   - wenatchee-guard-station
 WA470022:
@@ -3975,6 +4127,7 @@ WA470022:
   title: Wenberg County Park
   layout: campground
   categories:
+  - campground
   - wa
   - wenberg-county-park
 WA70197:
@@ -4001,6 +4154,7 @@ WA70197:
   title: West Sullivan
   layout: campground
   categories:
+  - campground
   - wa
   - west-sullivan
 WA70766:
@@ -4027,6 +4181,7 @@ WA70766:
   title: Wiley Creek Group Camp
   layout: campground
   categories:
+  - campground
   - wa
   - wiley-creek-group-camp
 WA470030:
@@ -4053,6 +4208,7 @@ WA470030:
   title: Willis Tucker Community Park
   layout: campground
   categories:
+  - campground
   - wa
   - willis-tucker-community-park
 WA74027:
@@ -4079,6 +4235,7 @@ WA74027:
   title: Willows Campground
   layout: campground
   categories:
+  - campground
   - wa
   - willows-campground
 WA73482:
@@ -4105,6 +4262,7 @@ WA73482:
   title: Windust Park
   layout: campground
   categories:
+  - campground
   - wa
   - windust-park
 WA74028:
@@ -4131,6 +4289,7 @@ WA74028:
   title: Windy Point Campground
   layout: campground
   categories:
+  - campground
   - wa
   - windy-point-campground
 WA97475:
@@ -4157,6 +4316,7 @@ WA97475:
   title: Wish Poosh Campground
   layout: campground
   categories:
+  - campground
   - wa
   - wish-poosh-campground
 ID72016:
@@ -4183,6 +4343,7 @@ ID72016:
   title: Adams Ranger Station
   layout: campground
   categories:
+  - campground
   - id
   - adams-ranger-station
 ID115789:
@@ -4209,6 +4370,7 @@ ID115789:
   title: Al Taylor Cabin
   layout: campground
   categories:
+  - campground
   - id
   - al-taylor-cabin
 ID73654:
@@ -4235,6 +4397,7 @@ ID73654:
   title: Albeni Cove
   layout: campground
   categories:
+  - campground
   - id
   - albeni-cove
 ID73768:
@@ -4261,6 +4424,7 @@ ID73768:
   title: Albert Moser
   layout: campground
   categories:
+  - campground
   - id
   - albert-moser
 ID70487:
@@ -4287,6 +4451,7 @@ ID70487:
   title: Alpine North Loop
   layout: campground
   categories:
+  - campground
   - id
   - alpine-north-loop
 ID73936:
@@ -4313,6 +4478,7 @@ ID73936:
   title: Alturas Lake Inlet
   layout: campground
   categories:
+  - campground
   - id
   - alturas-lake-inlet
 ID70227:
@@ -4339,6 +4505,7 @@ ID70227:
   title: Alturas Lake Picnic Area (ID)
   layout: campground
   categories:
+  - campground
   - id
   - alturas-lake-picnic-area-id
 ID70228:
@@ -4365,6 +4532,7 @@ ID70228:
   title: Amanita
   layout: campground
   categories:
+  - campground
   - id
   - amanita
 ID70232:
@@ -4391,6 +4559,7 @@ ID70232:
   title: Antelope
   layout: campground
   categories:
+  - campground
   - id
   - antelope
 ID75320:
@@ -4417,6 +4586,7 @@ ID75320:
   title: Arid Peak Lookout
   layout: campground
   categories:
+  - campground
   - id
   - arid-peak-lookout
 ID74161:
@@ -4443,6 +4613,7 @@ ID74161:
   title: Atlanta Cabin
   layout: campground
   categories:
+  - campground
   - id
   - atlanta-cabin
 ID72406:
@@ -4469,6 +4640,7 @@ ID72406:
   title: Avery Creek Cabin
   layout: campground
   categories:
+  - campground
   - id
   - avery-creek-cabin
 ID72384:
@@ -4495,6 +4667,7 @@ ID72384:
   title: Bad Bear Campground
   layout: campground
   categories:
+  - campground
   - id
   - bad-bear-campground
 ID75392:
@@ -4521,6 +4694,7 @@ ID75392:
   title: Bald Mountain Lookout
   layout: campground
   categories:
+  - campground
   - id
   - bald-mountain-lookout
 ID73915:
@@ -4547,6 +4721,7 @@ ID73915:
   title: Barber Flat Cabin
   layout: campground
   categories:
+  - campground
   - id
   - barber-flat-cabin
 ID74112:
@@ -4573,6 +4748,7 @@ ID74112:
   title: Barneys
   layout: campground
   categories:
+  - campground
   - id
   - barneys
 ID72266:
@@ -4599,6 +4775,7 @@ ID72266:
   title: Bartoo Island Group Site
   layout: campground
   categories:
+  - campground
   - id
   - bartoo-island-group-site
 ID70701:
@@ -4625,6 +4802,7 @@ ID70701:
   title: Baumgartner Campground
   layout: campground
   categories:
+  - campground
   - id
   - baumgartner-campground
 ID315053:
@@ -4651,6 +4829,7 @@ ID315053:
   title: Bear Lake State Park
   layout: campground
   categories:
+  - campground
   - id
   - bear-lake-state-park
 ID72271:
@@ -4677,6 +4856,7 @@ ID72271:
   title: Beauty Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - beauty-creek-campground
 ID70641:
@@ -4703,6 +4883,7 @@ ID70641:
   title: Beaver Creek (IDaho)
   layout: campground
   categories:
+  - campground
   - id
   - beaver-creek-idaho
 ID73914:
@@ -4729,6 +4910,7 @@ ID73914:
   title: Beaver Creek Cabin (ID)
   layout: campground
   categories:
+  - campground
   - id
   - beaver-creek-cabin-id
 ID73837:
@@ -4755,6 +4937,7 @@ ID73837:
   title: Bell Bay Campground
   layout: campground
   categories:
+  - campground
   - id
   - bell-bay-campground
 ID110483:
@@ -4781,6 +4964,7 @@ ID110483:
   title: Berlin Flats
   layout: campground
   categories:
+  - campground
   - id
   - berlin-flats
 ID70488:
@@ -4807,6 +4991,7 @@ ID70488:
   title: Big Elk
   layout: campground
   categories:
+  - campground
   - id
   - big-elk
 ID74116:
@@ -4833,6 +5018,7 @@ ID74116:
   title: Big Hank
   layout: campground
   categories:
+  - campground
   - id
   - big-hank
 ID73921:
@@ -4859,6 +5045,7 @@ ID73921:
   title: Big Springs   Caribou
   layout: campground
   categories:
+  - campground
   - id
   - big-springs-caribou
 ID75470:
@@ -4885,6 +5072,7 @@ ID75470:
   title: Big Springs Grp. Area   Island Park
   layout: campground
   categories:
+  - campground
   - id
   - big-springs-grp-area-island-park
 ID73729:
@@ -4911,6 +5099,7 @@ ID73729:
   title: Big Springs WArming Hut
   layout: campground
   categories:
+  - campground
   - id
   - big-springs-warming-hut
 ID70630:
@@ -4937,6 +5126,7 @@ ID70630:
   title: Big Trinity Cabin
   layout: campground
   categories:
+  - campground
   - id
   - big-trinity-cabin
 ID75165:
@@ -4963,6 +5153,7 @@ ID75165:
   title: Bishop Mountain Cabin
   layout: campground
   categories:
+  - campground
   - id
   - bishop-mountain-cabin
 ID73969:
@@ -4989,6 +5180,7 @@ ID73969:
   title: Black Rock
   layout: campground
   categories:
+  - campground
   - id
   - black-rock
 ID70596:
@@ -5015,6 +5207,7 @@ ID70596:
   title: Boiling Springs Cabin
   layout: campground
   categories:
+  - campground
   - id
   - boiling-springs-cabin
 ID75129:
@@ -5041,6 +5234,7 @@ ID75129:
   title: Bonanza Ccc Group Campground
   layout: campground
   categories:
+  - campground
   - id
   - bonanza-ccc-group-campground
 ID70632:
@@ -5067,6 +5261,7 @@ ID70632:
   title: Bonneville
   layout: campground
   categories:
+  - campground
   - id
   - bonneville
 ID72388:
@@ -5093,6 +5288,7 @@ ID72388:
   title: Boundary Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - boundary-creek-campground
 ID313035:
@@ -5119,6 +5315,7 @@ ID313035:
   title: 'Bruneau Dunes State Park '
   layout: campground
   categories:
+  - campground
   - id
   - bruneau-dunes-state-park
 ID74039:
@@ -5145,6 +5342,7 @@ ID74039:
   title: Buck Park Cabin
   layout: campground
   categories:
+  - campground
   - id
   - buck-park-cabin
 ID70498:
@@ -5171,6 +5369,7 @@ ID70498:
   title: Buffalo (IDaho)
   layout: campground
   categories:
+  - campground
   - id
   - buffalo-idaho
 ID70846:
@@ -5197,6 +5396,7 @@ ID70846:
   title: Bull Trout
   layout: campground
   categories:
+  - campground
   - id
   - bull-trout
 ID73828:
@@ -5223,6 +5423,7 @@ ID73828:
   title: Bumblebee Campground
   layout: campground
   categories:
+  - campground
   - id
   - bumblebee-campground
 ID73730:
@@ -5249,6 +5450,7 @@ ID73730:
   title: Buttermilk
   layout: campground
   categories:
+  - campground
   - id
   - buttermilk
 ID70574:
@@ -5275,6 +5477,7 @@ ID70574:
   title: Calamity
   layout: campground
   categories:
+  - campground
   - id
   - calamity
 ID75130:
@@ -5301,6 +5504,7 @@ ID75130:
   title: Cape Horn Winter Rental
   layout: campground
   categories:
+  - campground
   - id
   - cape-horn-winter-rental
 ID75103:
@@ -5327,6 +5531,7 @@ ID75103:
   title: Caribou Mountain Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - caribou-mountain-guard-station
 ID75189:
@@ -5353,6 +5558,7 @@ ID75189:
   title: Castle Butte Lookout
   layout: campground
   categories:
+  - campground
   - id
   - castle-butte-lookout
 ID315045:
@@ -5379,6 +5585,7 @@ ID315045:
   title: 'Castle Rocks State Park '
   layout: campground
   categories:
+  - campground
   - id
   - castle-rocks-state-park
 ID70248:
@@ -5405,6 +5612,7 @@ ID70248:
   title: Chemeketan Campground
   layout: campground
   categories:
+  - campground
   - id
   - chemeketan-campground
 ID315044:
@@ -5431,6 +5639,7 @@ ID315044:
   title: 'City Of Rock National Reserve '
   layout: campground
   categories:
+  - campground
   - id
   - city-of-rock-national-reserve
 ID75117:
@@ -5457,6 +5666,7 @@ ID75117:
   title: Clear Creek Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - clear-creek-guard-station
 ID73931:
@@ -5483,6 +5693,7 @@ ID73931:
   title: Cloverleaf Campground
   layout: campground
   categories:
+  - campground
   - id
   - cloverleaf-campground
 ID74030:
@@ -5509,6 +5720,7 @@ ID74030:
   title: Cold Springs Campground
   layout: campground
   categories:
+  - campground
   - id
   - cold-springs-campground
 ID75366:
@@ -5535,6 +5747,7 @@ ID75366:
   title: Cold Springs Peak Cabin
   layout: campground
   categories:
+  - campground
   - id
   - cold-springs-peak-cabin
 ID74109:
@@ -5561,6 +5774,7 @@ ID74109:
   title: Cozy Cove
   layout: campground
   categories:
+  - campground
   - id
   - cozy-cove
 ID75122:
@@ -5587,6 +5801,7 @@ ID75122:
   title: Cub River Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - cub-river-guard-station
 ID73924:
@@ -5613,6 +5828,7 @@ ID73924:
   title: Curlew Campground
   layout: campground
   categories:
+  - campground
   - id
   - curlew-campground
 ID72299:
@@ -5639,6 +5855,7 @@ ID72299:
   title: Davis Canyon Campground
   layout: campground
   categories:
+  - campground
   - id
   - davis-canyon-campground
 ID73806:
@@ -5665,6 +5882,7 @@ ID73806:
   title: Deadwood Lookout Rec Cabin
   layout: campground
   categories:
+  - campground
   - id
   - deadwood-lookout-rec-cabin
 ID73911:
@@ -5691,6 +5909,7 @@ ID73911:
   title: Deer Park Cabin
   layout: campground
   categories:
+  - campground
   - id
   - deer-park-cabin
 ID75295:
@@ -5717,6 +5936,7 @@ ID75295:
   title: Deer Ridge Lookout
   layout: campground
   categories:
+  - campground
   - id
   - deer-ridge-lookout
 ID73168:
@@ -5743,6 +5963,7 @@ ID73168:
   title: Dent Acres
   layout: campground
   categories:
+  - campground
   - id
   - dent-acres
 ID70669:
@@ -5769,6 +5990,7 @@ ID70669:
   title: Devils Elbow
   layout: campground
   categories:
+  - campground
   - id
   - devils-elbow
 ID111539:
@@ -5795,6 +6017,7 @@ ID111539:
   title: Diamond Creek Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - diamond-creek-guard-station
 ID70496:
@@ -5821,6 +6044,7 @@ ID70496:
   title: Dog Creek (ID)
   layout: campground
   categories:
+  - campground
   - id
   - dog-creek-id
 ID73912:
@@ -5847,6 +6071,7 @@ ID73912:
   title: Dutch Creek Cabin
   layout: campground
   categories:
+  - campground
   - id
   - dutch-creek-cabin
 ID311022:
@@ -5873,6 +6098,7 @@ ID311022:
   title: 'Dworshak State Park '
   layout: campground
   categories:
+  - campground
   - id
   - dworshak-state-park
 ID70261:
@@ -5899,6 +6125,7 @@ ID70261:
   title: Easley Campground
   layout: campground
   categories:
+  - campground
   - id
   - easley-campground
 ID70262:
@@ -5925,6 +6152,7 @@ ID70262:
   title: Eastside
   layout: campground
   categories:
+  - campground
   - id
   - eastside
 ID72381:
@@ -5951,6 +6179,7 @@ ID72381:
   title: Edna Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - edna-creek-campground
 ID75101:
@@ -5977,6 +6206,7 @@ ID75101:
   title: Egan Basin Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - egan-basin-guard-station
 ID75120:
@@ -6003,6 +6233,7 @@ ID75120:
   title: Eight Mile Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - eight-mile-guard-station
 ID70809:
@@ -6029,6 +6260,7 @@ ID70809:
   title: Elk Creek Cabins
   layout: campground
   categories:
+  - campground
   - id
   - elk-creek-cabins
 ID75390:
@@ -6055,6 +6287,7 @@ ID75390:
   title: Elk Creek Campground (Clearwater Nf)
   layout: campground
   categories:
+  - campground
   - id
   - elk-creek-campground-clearwater-nf
 ID70263:
@@ -6081,6 +6314,7 @@ ID70263:
   title: Elk Creek Campground (Sawtooth Nf)
   layout: campground
   categories:
+  - campground
   - id
   - elk-creek-campground-sawtooth-nf
 ID70674:
@@ -6107,6 +6341,7 @@ ID70674:
   title: Elks Flat Campground
   layout: campground
   categories:
+  - campground
   - id
   - elks-flat-campground
 ID73767:
@@ -6133,6 +6368,7 @@ ID73767:
   title: Emigration Campground
   layout: campground
   categories:
+  - campground
   - id
   - emigration-campground
 ID75512:
@@ -6159,6 +6395,7 @@ ID75512:
   title: Evergreen Campground
   layout: campground
   categories:
+  - campground
   - id
   - evergreen-campground
 ID70489:
@@ -6185,6 +6422,7 @@ ID70489:
   title: Falls Campground
   layout: campground
   categories:
+  - campground
   - id
   - falls-campground
 ID311015:
@@ -6211,6 +6449,7 @@ ID311015:
   title: Farragut State Park
   layout: campground
   categories:
+  - campground
   - id
   - farragut-state-park
 ID75310:
@@ -6237,6 +6476,7 @@ ID75310:
   title: Fish Creek Group Use
   layout: campground
   categories:
+  - campground
   - id
   - fish-creek-group-use
 ID72169:
@@ -6263,6 +6503,7 @@ ID72169:
   title: Fish Creek Pavilion
   layout: campground
   categories:
+  - campground
   - id
   - fish-creek-pavilion
 ID70113:
@@ -6289,6 +6530,7 @@ ID70113:
   title: Flat Rock (IDaho)
   layout: campground
   categories:
+  - campground
   - id
   - flat-rock-idaho
 ID70267:
@@ -6315,6 +6557,7 @@ ID70267:
   title: French Creek
   layout: campground
   categories:
+  - campground
   - id
   - french-creek
 ID70271:
@@ -6341,6 +6584,7 @@ ID70271:
   title: Glacier View Campground
   layout: campground
   categories:
+  - campground
   - id
   - glacier-view-campground
 ID109833:
@@ -6367,6 +6611,7 @@ ID109833:
   title: 'Glade Creek Campground '
   layout: campground
   categories:
+  - campground
   - id
   - glade-creek-campground
 ID73913:
@@ -6393,6 +6638,7 @@ ID73913:
   title: Graham Cabin
   layout: campground
   categories:
+  - campground
   - id
   - graham-cabin
 ID72437:
@@ -6419,6 +6665,7 @@ ID72437:
   title: Grand View
   layout: campground
   categories:
+  - campground
   - id
   - grand-view
 ID70097:
@@ -6445,6 +6692,7 @@ ID70097:
   title: Grayback
   layout: campground
   categories:
+  - campground
   - id
   - grayback
 ID75105:
@@ -6471,6 +6719,7 @@ ID75105:
   title: Grouse Campground
   layout: campground
   categories:
+  - campground
   - id
   - grouse-campground
 ID315061:
@@ -6497,6 +6746,7 @@ ID315061:
   title: Harriman State Park
   layout: campground
   categories:
+  - campground
   - id
   - harriman-state-park
 ID70773:
@@ -6523,6 +6773,7 @@ ID70773:
   title: Hayfork Group Cg
   layout: campground
   categories:
+  - campground
   - id
   - hayfork-group-cg
 ID75504:
@@ -6549,6 +6800,7 @@ ID75504:
   title: Hazard Campground
   layout: campground
   categories:
+  - campground
   - id
   - hazard-campground
 ID70631:
@@ -6575,6 +6827,7 @@ ID70631:
   title: Helende
   layout: campground
   categories:
+  - campground
   - id
   - helende
 ID311023:
@@ -6601,6 +6854,7 @@ ID311023:
   title: 'Hells Gate State Park '
   layout: campground
   categories:
+  - campground
   - id
   - hells-gate-state-park
 ID315062:
@@ -6627,6 +6881,7 @@ ID315062:
   title: Henrys Lake State Park
   layout: campground
   categories:
+  - campground
   - id
   - henrys-lake-state-park
 ID311018:
@@ -6653,6 +6908,7 @@ ID311018:
   title: Heyburn State Park
   layout: campground
   categories:
+  - campground
   - id
   - heyburn-state-park
 ID75139:
@@ -6679,6 +6935,7 @@ ID75139:
   title: Horse Heaven Cabin
   layout: campground
   categories:
+  - campground
   - id
   - horse-heaven-cabin
 ID70282:
@@ -6705,6 +6962,7 @@ ID70282:
   title: Hot Springs
   layout: campground
   categories:
+  - campground
   - id
   - hot-springs
 ID74110:
@@ -6731,6 +6989,7 @@ ID74110:
   title: Howers
   layout: campground
   categories:
+  - campground
   - id
   - howers
 ID313011:
@@ -6757,6 +7016,7 @@ ID313011:
   title: IDaho City Yurts
   layout: campground
   categories:
+  - campground
   - id
   - idaho-city-yurts
 ID75307:
@@ -6783,6 +7043,7 @@ ID75307:
   title: Johnson Bar Group Site
   layout: campground
   categories:
+  - campground
   - id
   - johnson-bar-group-site
 ID72111:
@@ -6809,6 +7070,7 @@ ID72111:
   title: Johnson Creek Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - johnson-creek-guard-station
 ID75113:
@@ -6835,6 +7097,7 @@ ID75113:
   title: Johnson Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - johnson-guard-station
 ID72267:
@@ -6861,6 +7124,7 @@ ID72267:
   title: Kalispell Island Group Site
   layout: campground
   categories:
+  - campground
   - id
   - kalispell-island-group-site
 ID72050:
@@ -6887,6 +7151,7 @@ ID72050:
   title: Kelly Forks Cabin
   layout: campground
   categories:
+  - campground
   - id
   - kelly-forks-cabin
 ID70634:
@@ -6913,6 +7178,7 @@ ID70634:
   title: Kirkham
   layout: campground
   categories:
+  - campground
   - id
   - kirkham
 ID70670:
@@ -6939,6 +7205,7 @@ ID70670:
   title: Kit Price
   layout: campground
   categories:
+  - campground
   - id
   - kit-price
 ID313037:
@@ -6965,6 +7232,7 @@ ID313037:
   title: Lake Cascade State Park
   layout: campground
   categories:
+  - campground
   - id
   - lake-cascade-state-park
 ID93070:
@@ -6991,6 +7259,7 @@ ID93070:
   title: Lake Cleveland   East Side
   layout: campground
   categories:
+  - campground
   - id
   - lake-cleveland-east-side
 ID117394:
@@ -7017,6 +7286,7 @@ ID117394:
   title: Lake Fork Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - lake-fork-guard-station
 ID315046:
@@ -7043,6 +7313,7 @@ ID315046:
   title: Lake WAlcott
   layout: campground
   categories:
+  - campground
   - id
   - lake-walcott
 ID75302:
@@ -7069,6 +7340,7 @@ ID75302:
   title: Little Guard Lookout
   layout: campground
   categories:
+  - campground
   - id
   - little-guard-lookout
 ID75273:
@@ -7095,6 +7367,7 @@ ID75273:
   title: Liz Butte Cabin
   layout: campground
   categories:
+  - campground
   - id
   - liz-butte-cabin
 ID72056:
@@ -7121,6 +7394,7 @@ ID72056:
   title: Liz Creek Cabin
   layout: campground
   categories:
+  - campground
   - id
   - liz-creek-cabin
 ID72011:
@@ -7147,6 +7421,7 @@ ID72011:
   title: Lookout Butte Lookout
   layout: campground
   categories:
+  - campground
   - id
   - lookout-butte-lookout
 ID75173:
@@ -7173,6 +7448,7 @@ ID75173:
   title: Loristica Group Campground
   layout: campground
   categories:
+  - campground
   - id
   - loristica-group-campground
 ID75030:
@@ -7199,6 +7475,7 @@ ID75030:
   title: Lower Penstemon
   layout: campground
   categories:
+  - campground
   - id
   - lower-penstemon
 ID70473:
@@ -7225,6 +7502,7 @@ ID70473:
   title: Luby Bay
   layout: campground
   categories:
+  - campground
   - id
   - luby-bay
 ID75296:
@@ -7251,6 +7529,7 @@ ID75296:
   title: Lunch Peak Lookout
   layout: campground
   categories:
+  - campground
   - id
   - lunch-peak-lookout
 ID72330:
@@ -7277,6 +7556,7 @@ ID72330:
   title: Macks Creek Park
   layout: campground
   categories:
+  - campground
   - id
   - macks-creek-park
 ID75305:
@@ -7303,6 +7583,7 @@ ID75305:
   title: Magee Rangers Cabin
   layout: campground
   categories:
+  - campground
   - id
   - magee-rangers-cabin
 ID75162:
@@ -7329,6 +7610,7 @@ ID75162:
   title: Magruder Rangers House
   layout: campground
   categories:
+  - campground
   - id
   - magruder-rangers-house
 ID73923:
@@ -7355,6 +7637,7 @@ ID73923:
   title: Malad Summit Campground
   layout: campground
   categories:
+  - campground
   - id
   - malad-summit-campground
 ID75503:
@@ -7381,6 +7664,7 @@ ID75503:
   title: Malad Summit Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - malad-summit-guard-station
 ID75515:
@@ -7407,6 +7691,7 @@ ID75515:
   title: Mann Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - mann-creek-campground
 ID315051:
@@ -7433,6 +7718,7 @@ ID315051:
   title: 'Massacre Rocks State Park '
   layout: campground
   categories:
+  - campground
   - id
   - massacre-rocks-state-park
 ID70114:
@@ -7459,6 +7745,7 @@ ID70114:
   title: Mccrea Bridge
   layout: campground
   categories:
+  - campground
   - id
   - mccrea-bridge
 ID75311:
@@ -7485,6 +7772,7 @@ ID75311:
   title: Meadow Creek Cabin
   layout: campground
   categories:
+  - campground
   - id
   - meadow-creek-cabin
 ID74183:
@@ -7511,6 +7799,7 @@ ID74183:
   title: Mike Harris
   layout: campground
   categories:
+  - campground
   - id
   - mike-harris
 ID73920:
@@ -7537,6 +7826,7 @@ ID73920:
   title: Mink Creek Group Site Campground
   layout: campground
   categories:
+  - campground
   - id
   - mink-creek-group-site-campground
 ID72277:
@@ -7563,6 +7853,7 @@ ID72277:
   title: Mokins Bay Campground
   layout: campground
   categories:
+  - campground
   - id
   - mokins-bay-campground
 ID73764:
@@ -7589,6 +7880,7 @@ ID73764:
   title: Montpelier Canyon Campground
   layout: campground
   categories:
+  - campground
   - id
   - montpelier-canyon-campground
 ID70436:
@@ -7615,6 +7907,7 @@ ID70436:
   title: Mountain View
   layout: campground
   categories:
+  - campground
   - id
   - mountain-view
 ID75118:
@@ -7641,6 +7934,7 @@ ID75118:
   title: North Fork (ID)
   layout: campground
   categories:
+  - campground
   - id
   - north-fork-id
 ID72297:
@@ -7667,6 +7961,7 @@ ID72297:
   title: North Fork Campground   St. Charles Canyon
   layout: campground
   categories:
+  - campground
   - id
   - north-fork-campground-st-charles-canyon
 ID70301:
@@ -7693,6 +7988,7 @@ ID70301:
   title: North Shore Picnic Area
   layout: campground
   categories:
+  - campground
   - id
   - north-shore-picnic-area
 ID70003:
@@ -7719,6 +8015,7 @@ ID70003:
   title: Ohara
   layout: campground
   categories:
+  - campground
   - id
   - ohara
 ID73830:
@@ -7745,6 +8042,7 @@ ID73830:
   title: Osprey
   layout: campground
   categories:
+  - campground
   - id
   - osprey
 ID109335:
@@ -7771,6 +8069,7 @@ ID109335:
   title: Outlet At Priest Lake
   layout: campground
   categories:
+  - campground
   - id
   - outlet-at-priest-lake
 ID70708:
@@ -7797,6 +8096,7 @@ ID70708:
   title: Outlet Campground
   layout: campground
   categories:
+  - campground
   - id
   - outlet-campground
 ID73766:
@@ -7823,6 +8123,7 @@ ID73766:
   title: Paris Springs Campground
   layout: campground
   categories:
+  - campground
   - id
   - paris-springs-campground
 ID70437:
@@ -7849,6 +8150,7 @@ ID70437:
   title: Park Creek (IDaho)
   layout: campground
   categories:
+  - campground
   - id
   - park-creek-idaho
 ID72138:
@@ -7875,6 +8177,7 @@ ID72138:
   title: Peace Valley Campground
   layout: campground
   categories:
+  - campground
   - id
   - peace-valley-campground
 ID75499:
@@ -7901,6 +8204,7 @@ ID75499:
   title: Pebble Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - pebble-guard-station
 ID74197:
@@ -7927,6 +8231,7 @@ ID74197:
   title: Picnic Point (ID)
   layout: campground
   categories:
+  - campground
   - id
   - picnic-point-id
 ID70633:
@@ -7953,6 +8258,7 @@ ID70633:
   title: Pine Flats (ID)
   layout: campground
   categories:
+  - campground
   - id
   - pine-flats-id
 ID70312:
@@ -7979,6 +8285,7 @@ ID70312:
   title: Point Campground
   layout: campground
   categories:
+  - campground
   - id
   - point-campground
 ID313031:
@@ -8005,6 +8312,7 @@ ID313031:
   title: Ponderosa State Park
   layout: campground
   categories:
+  - campground
   - id
   - ponderosa-state-park
 ID73930:
@@ -8031,6 +8339,7 @@ ID73930:
   title: Porcupine (ID)
   layout: campground
   categories:
+  - campground
   - id
   - porcupine-id
 ID75031:
@@ -8057,6 +8366,7 @@ ID75031:
   title: Porcupine Springs
   layout: campground
   categories:
+  - campground
   - id
   - porcupine-springs
 ID73822:
@@ -8083,6 +8393,7 @@ ID73822:
   title: Powell Campground
   layout: campground
   categories:
+  - campground
   - id
   - powell-campground
 ID311011:
@@ -8109,6 +8420,7 @@ ID311011:
   title: Priest Lake State Park
   layout: campground
   categories:
+  - campground
   - id
   - priest-lake-state-park
 ID73358:
@@ -8135,6 +8447,7 @@ ID73358:
   title: Priest River
   layout: campground
   categories:
+  - campground
   - id
   - priest-river
 ID70314:
@@ -8161,6 +8474,7 @@ ID70314:
   title: Rainbow Point
   layout: campground
   categories:
+  - campground
   - id
   - rainbow-point
 ID73890:
@@ -8187,6 +8501,7 @@ ID73890:
   title: Rattlesnake
   layout: campground
   categories:
+  - campground
   - id
   - rattlesnake
 ID72380:
@@ -8213,6 +8528,7 @@ ID72380:
   title: Redfish Cabin
   layout: campground
   categories:
+  - campground
   - id
   - redfish-cabin
 ID70475:
@@ -8239,6 +8555,7 @@ ID70475:
   title: Reeder Bay
   layout: campground
   categories:
+  - campground
   - id
   - reeder-bay
 ID73366:
@@ -8265,6 +8582,7 @@ ID73366:
   title: Riley Creek
   layout: campground
   categories:
+  - campground
   - id
   - riley-creek
 ID74108:
@@ -8291,6 +8609,7 @@ ID74108:
   title: River Side (ID   Boise)
   layout: campground
   categories:
+  - campground
   - id
   - river-side-id-boise
 ID70501:
@@ -8317,6 +8636,7 @@ ID70501:
   title: Riverside (ID   Targhee)
   layout: campground
   categories:
+  - campground
   - id
   - riverside-id-targhee
 ID311013:
@@ -8343,6 +8663,7 @@ ID311013:
   title: 'Round Lake State Park '
   layout: campground
   categories:
+  - campground
   - id
   - round-lake-state-park
 ID70319:
@@ -8369,6 +8690,7 @@ ID70319:
   title: Sagehen Creek
   layout: campground
   categories:
+  - campground
   - id
   - sagehen-creek
 ID70476:
@@ -8395,6 +8717,7 @@ ID70476:
   title: Sam Owen
   layout: campground
   categories:
+  - campground
   - id
   - sam-owen
 ID73922:
@@ -8421,6 +8744,7 @@ ID73922:
   title: Scout Mountain Campground
   layout: campground
   categories:
+  - campground
   - id
   - scout-mountain-campground
 ID70497:
@@ -8447,6 +8771,7 @@ ID70497:
   title: Shafer Butte
   layout: campground
   categories:
+  - campground
   - id
   - shafer-butte
 ID70324:
@@ -8473,6 +8798,7 @@ ID70324:
   title: Sheep Trail Campground
   layout: campground
   categories:
+  - campground
   - id
   - sheep-trail-campground
 ID70325:
@@ -8499,6 +8825,7 @@ ID70325:
   title: Shoreline
   layout: campground
   categories:
+  - campground
   - id
   - shoreline
 ID75251:
@@ -8525,6 +8852,7 @@ ID75251:
   title: Shorty Peak Lookout
   layout: campground
   categories:
+  - campground
   - id
   - shorty-peak-lookout
 ID75304:
@@ -8551,6 +8879,7 @@ ID75304:
   title: Shoshone Park Kitchen
   layout: campground
   categories:
+  - campground
   - id
   - shoshone-park-kitchen
 ID79065:
@@ -8577,6 +8906,7 @@ ID79065:
   title: Silver Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - silver-creek-campground
 ID72180:
@@ -8603,6 +8933,7 @@ ID72180:
   title: Snyder Guard Station (ID)
   layout: campground
   categories:
+  - campground
   - id
   - snyder-guard-station-id
 ID75314:
@@ -8629,6 +8960,7 @@ ID75314:
   title: South Fork Campground
   layout: campground
   categories:
+  - campground
   - id
   - south-fork-campground
 ID74031:
@@ -8655,6 +8987,7 @@ ID74031:
   title: Spring Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - spring-creek-campground
 ID73418:
@@ -8681,6 +9014,7 @@ ID73418:
   title: Springy Point
   layout: campground
   categories:
+  - campground
   - id
   - springy-point
 ID75164:
@@ -8707,6 +9041,7 @@ ID75164:
   title: Squirrel Meadows Cabin
   layout: campground
   categories:
+  - campground
   - id
   - squirrel-meadows-cabin
 ID73932:
@@ -8733,6 +9068,7 @@ ID73932:
   title: St. Charles Campground
   layout: campground
   categories:
+  - campground
   - id
   - st-charles-campground
 ID73769:
@@ -8759,6 +9095,7 @@ ID73769:
   title: Stanley Lake Campground
   layout: campground
   categories:
+  - campground
   - id
   - stanley-lake-campground
 ID75245:
@@ -8785,6 +9122,7 @@ ID75245:
   title: Steel Creek Group Campground
   layout: campground
   categories:
+  - campground
   - id
   - steel-creek-group-campground
 ID75246:
@@ -8811,6 +9149,7 @@ ID75246:
   title: Stoddard Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - stoddard-creek-campground
 ID70810:
@@ -8837,6 +9176,7 @@ ID70810:
   title: Stolle Meadows Cabin
   layout: campground
   categories:
+  - campground
   - id
   - stolle-meadows-cabin
 ID75115:
@@ -8863,6 +9203,7 @@ ID75115:
   title: Stump Creek Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - stump-creek-guard-station
 ID73763:
@@ -8889,6 +9230,7 @@ ID73763:
   title: Summit View Campground
   layout: campground
   categories:
+  - campground
   - id
   - summit-view-campground
 ID74179:
@@ -8915,6 +9257,7 @@ ID74179:
   title: Sunny Gulch Campground
   layout: campground
   categories:
+  - campground
   - id
   - sunny-gulch-campground
 ID75260:
@@ -8941,6 +9284,7 @@ ID75260:
   title: Surveyors Lookout
   layout: campground
   categories:
+  - campground
   - id
   - surveyors-lookout
 ID70689:
@@ -8967,6 +9311,7 @@ ID70689:
   title: Swinging Bridge
   layout: campground
   categories:
+  - campground
   - id
   - swinging-bridge
 ID70772:
@@ -8993,6 +9338,7 @@ ID70772:
   title: Table Rock
   layout: campground
   categories:
+  - campground
   - id
   - table-rock
 ID73925:
@@ -9019,6 +9365,7 @@ ID73925:
   title: Third Creek Group Site
   layout: campground
   categories:
+  - campground
   - id
   - third-creek-group-site
 ID70595:
@@ -9045,6 +9392,7 @@ ID70595:
   title: Third Fork Cabin
   layout: campground
   categories:
+  - campground
   - id
   - third-fork-cabin
 ID75032:
@@ -9071,6 +9419,7 @@ ID75032:
   title: Thompson Flat
   layout: campground
   categories:
+  - campground
   - id
   - thompson-flat
 ID313036:
@@ -9097,6 +9446,7 @@ ID313036:
   title: 'Three Island Crossing State Park '
   layout: campground
   categories:
+  - campground
   - id
   - three-island-crossing-state-park
 ID70348:
@@ -9123,6 +9473,7 @@ ID70348:
   title: Trap Creek Campground
   layout: campground
   categories:
+  - campground
   - id
   - trap-creek-campground
 ID74121:
@@ -9149,6 +9500,7 @@ ID74121:
   title: Upper Coffee Pot
   layout: campground
   categories:
+  - campground
   - id
   - upper-coffee-pot
 ID74034:
@@ -9175,6 +9527,7 @@ ID74034:
   title: Upper Payette Lake Campground
   layout: campground
   categories:
+  - campground
   - id
   - upper-payette-lake-campground
 ID72009:
@@ -9201,6 +9554,7 @@ ID72009:
   title: WAlde Lookout Cabin
   layout: campground
   categories:
+  - campground
   - id
   - walde-lookout-cabin
 ID75312:
@@ -9227,6 +9581,7 @@ ID75312:
   title: WAlker Cabin
   layout: campground
   categories:
+  - campground
   - id
   - walker-cabin
 ID70826:
@@ -9253,6 +9608,7 @@ ID70826:
   title: WArm Lake
   layout: campground
   categories:
+  - campground
   - id
   - warm-lake
 ID70502:
@@ -9279,6 +9635,7 @@ ID70502:
   title: WArm River
   layout: campground
   categories:
+  - campground
   - id
   - warm-river
 ID75166:
@@ -9305,6 +9662,7 @@ ID75166:
   title: WArm River Cabin
   layout: campground
   categories:
+  - campground
   - id
   - warm-river-cabin
 ID70808:
@@ -9331,6 +9689,7 @@ ID70808:
   title: WArm Springs Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - warm-springs-guard-station
 ID70655:
@@ -9357,6 +9716,7 @@ ID70655:
   title: Wilderness Gateway
   layout: campground
   categories:
+  - campground
   - id
   - wilderness-gateway
 ID73765:
@@ -9383,6 +9743,7 @@ ID73765:
   title: Willow Flat Campground
   layout: campground
   categories:
+  - campground
   - id
   - willow-flat-campground
 ID311025:
@@ -9409,6 +9770,7 @@ ID311025:
   title: 'Winchester Lake State Park '
   layout: campground
   categories:
+  - campground
   - id
   - winchester-lake-state-park
 ID70358:
@@ -9435,6 +9797,7 @@ ID70358:
   title: Wood River Group Overnight Area (Tent Only)
   layout: campground
   categories:
+  - campground
   - id
   - wood-river-group-overnight-area-tent-only
 ID75142:
@@ -9461,6 +9824,7 @@ ID75142:
   title: Yellowjacket Guard Station
   layout: campground
   categories:
+  - campground
   - id
   - yellowjacket-guard-station
 MT75508:
@@ -9487,6 +9851,7 @@ MT75508:
   title: Alta Campground
   layout: campground
   categories:
+  - campground
   - mt
   - alta-campground
 MT75179:
@@ -9513,6 +9878,7 @@ MT75179:
   title: Antone Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - antone-cabin
 MT93968:
@@ -9539,6 +9905,7 @@ MT93968:
   title: Apgar Group Sites
   layout: campground
   categories:
+  - campground
   - mt
   - apgar-group-sites
 MT75329:
@@ -9565,6 +9932,7 @@ MT75329:
   title: Aspen Grove Group Use Area
   layout: campground
   categories:
+  - campground
   - mt
   - aspen-grove-group-use-area
 MT630310:
@@ -9591,6 +9959,7 @@ MT630310:
   title: Bannack
   layout: campground
   categories:
+  - campground
   - mt
   - bannack
 MT75457:
@@ -9617,6 +9986,7 @@ MT75457:
   title: Bar Gulch
   layout: campground
   categories:
+  - campground
   - mt
   - bar-gulch
 MT71532:
@@ -9643,6 +10013,7 @@ MT71532:
   title: Basin Montana Campground
   layout: campground
   categories:
+  - campground
   - mt
   - basin-montana-campground
 MT75230:
@@ -9669,6 +10040,7 @@ MT75230:
   title: Basin Station Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - basin-station-cabin
 MT75200:
@@ -9695,6 +10067,7 @@ MT75200:
   title: Battle Ridge Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - battle-ridge-cabin
 MT75180:
@@ -9721,6 +10094,7 @@ MT75180:
   title: Bear Creek Bunkhouse
   layout: campground
   categories:
+  - campground
   - mt
   - bear-creek-bunkhouse
 MT75181:
@@ -9747,6 +10121,7 @@ MT75181:
   title: Bear Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - bear-creek-cabin
 MT75232:
@@ -9773,6 +10148,7 @@ MT75232:
   title: Beaver Creek Cabin (MT)
   layout: campground
   categories:
+  - campground
   - mt
   - beaver-creek-cabin-mt
 MT72075:
@@ -9799,6 +10175,7 @@ MT72075:
   title: Beaver Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - beaver-creek-campground
 MT630211:
@@ -9825,6 +10202,7 @@ MT630211:
   title: Beavertail Hill
   layout: campground
   categories:
+  - campground
   - mt
   - beavertail-hill
 MT75206:
@@ -9851,6 +10229,7 @@ MT75206:
   title: Ben Rover Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - ben-rover-cabin
 MT75286:
@@ -9877,6 +10256,7 @@ MT75286:
   title: Bend Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - bend-guard-station
 MT630110:
@@ -9903,6 +10283,7 @@ MT630110:
   title: Big Arm State Park
   layout: campground
   categories:
+  - campground
   - mt
   - big-arm-state-park
 MT75264:
@@ -9929,6 +10310,7 @@ MT75264:
   title: Big Creek Baldy. Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - big-creek-baldy-lookout-rental
 MT75159:
@@ -9955,6 +10337,7 @@ MT75159:
   title: Big Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - big-creek-cabin
 MT75369:
@@ -9981,6 +10364,7 @@ MT75369:
   title: Big Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - big-creek-campground
 MT75210:
@@ -10007,6 +10391,7 @@ MT75210:
   title: Big Larch Campground
   layout: campground
   categories:
+  - campground
   - mt
   - big-larch-campground
 MT75271:
@@ -10033,6 +10418,7 @@ MT75271:
   title: Birch Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - birch-creek-cabin
 MT75229:
@@ -10059,6 +10445,7 @@ MT75229:
   title: Black Butte Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - black-butte-cabin
 MT630312:
@@ -10085,6 +10472,7 @@ MT630312:
   title: Black Sandy
   layout: campground
   categories:
+  - campground
   - mt
   - black-sandy
 MT75257:
@@ -10111,6 +10499,7 @@ MT75257:
   title: Bloody Dick Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - bloody-dick-cabin
 MT630411:
@@ -10137,6 +10526,7 @@ MT630411:
   title: 'Brush Lake '
   layout: campground
   categories:
+  - campground
   - mt
   - brush-lake
 MT75267:
@@ -10163,6 +10553,7 @@ MT75267:
   title: Bull River Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - bull-river-guard-station
 MT75393:
@@ -10189,6 +10580,7 @@ MT75393:
   title: Bull River Pavilion
   layout: campground
   categories:
+  - campground
   - mt
   - bull-river-pavilion
 MT75233:
@@ -10215,6 +10607,7 @@ MT75233:
   title: Cabin Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - cabin-creek-cabin
 MT72364:
@@ -10241,6 +10634,7 @@ MT72364:
   title: Cabin Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - cabin-creek-campground
 MT75274:
@@ -10267,6 +10661,7 @@ MT75274:
   title: Calf Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - calf-creek-cabin
 MT75217:
@@ -10293,6 +10688,7 @@ MT75217:
   title: Canyon Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - canyon-creek-cabin
 MT73630:
@@ -10319,6 +10715,7 @@ MT73630:
   title: Cascade
   layout: campground
   categories:
+  - campground
   - mt
   - cascade
 MT100028:
@@ -10345,6 +10742,7 @@ MT100028:
   title: Cave Point Group Use Area
   layout: campground
   categories:
+  - campground
   - mt
   - cave-point-group-use-area
 MT75204:
@@ -10371,6 +10769,7 @@ MT75204:
   title: Challenge Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - challenge-cabin
 MT73592:
@@ -10397,6 +10796,7 @@ MT73592:
   title: Chisholm Campground
   layout: campground
   categories:
+  - campground
   - mt
   - chisholm-campground
 MT630511:
@@ -10423,6 +10823,7 @@ MT630511:
   title: Cooney
   layout: campground
   categories:
+  - campground
   - mt
   - cooney
 MT75288:
@@ -10449,6 +10850,7 @@ MT75288:
   title: Cougar Peak Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - cougar-peak-lookout
 MT100029:
@@ -10475,6 +10877,7 @@ MT100029:
   title: Court Sheriff Campground
   layout: campground
   categories:
+  - campground
   - mt
   - court-sheriff-campground
 MT93120:
@@ -10501,6 +10904,7 @@ MT93120:
   title: Crandall Creek Cabin (Formerly Bennett Creek Cabin)
   layout: campground
   categories:
+  - campground
   - mt
   - crandall-creek-cabin-formerly-bennett-creek-cabin
 MT75287:
@@ -10527,6 +10931,7 @@ MT75287:
   title: Crystal Lake Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - crystal-lake-cabin
 MT115289:
@@ -10553,6 +10958,7 @@ MT115289:
   title: Crystal Lake Group Campsite
   layout: campground
   categories:
+  - campground
   - mt
   - crystal-lake-group-campsite
 MT75330:
@@ -10579,6 +10985,7 @@ MT75330:
   title: Cummings Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - cummings-cabin
 MT75280:
@@ -10605,6 +11012,7 @@ MT75280:
   title: Deer Creek Cabin (MT)
   layout: campground
   categories:
+  - campground
   - mt
   - deer-creek-cabin-mt
 MT113390:
@@ -10631,6 +11039,7 @@ MT113390:
   title: Devil Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - devil-creek-campground
 MT75222:
@@ -10657,6 +11066,7 @@ MT75222:
   title: Diamond Butte Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - diamond-butte-lookout
 MT75241:
@@ -10683,6 +11093,7 @@ MT75241:
   title: Doney Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - doney-cabin
 MT113339:
@@ -10709,6 +11120,7 @@ MT113339:
   title: Doris Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - doris-creek-campground
 MT72157:
@@ -10735,6 +11147,7 @@ MT72157:
   title: Double Arrow Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - double-arrow-lookout
 MT75240:
@@ -10761,6 +11174,7 @@ MT75240:
   title: Douglas Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - douglas-creek-cabin
 MT73170:
@@ -10787,6 +11201,7 @@ MT73170:
   title: Downstream
   layout: campground
   categories:
+  - campground
   - mt
   - downstream
 MT75290:
@@ -10813,6 +11228,7 @@ MT75290:
   title: Dry Wolf Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - dry-wolf-cabin
 MT75458:
@@ -10839,6 +11255,7 @@ MT75458:
   title: Eagle Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - eagle-guard-station
 MT75132:
@@ -10865,6 +11282,7 @@ MT75132:
   title: East Fork Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - east-fork-cabin
 MT75368:
@@ -10891,6 +11309,7 @@ MT75368:
   title: Emery Bay Campground
   layout: campground
   categories:
+  - campground
   - mt
   - emery-bay-campground
 MT113739:
@@ -10917,6 +11336,7 @@ MT113739:
   title: Fairview Ranger Station
   layout: campground
   categories:
+  - campground
   - mt
   - fairview-ranger-station
 MT75138:
@@ -10943,6 +11363,7 @@ MT75138:
   title: Fales Flat Campground
   layout: campground
   categories:
+  - campground
   - mt
   - fales-flat-campground
 MT630111:
@@ -10969,6 +11390,7 @@ MT630111:
   title: Finley Point
   layout: campground
   categories:
+  - campground
   - mt
   - finley-point
 MT70974:
@@ -10995,6 +11417,7 @@ MT70974:
   title: Fish Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - fish-creek-campground
 MT75263:
@@ -11021,6 +11444,7 @@ MT75263:
   title: Fleecer Station
   layout: campground
   categories:
+  - campground
   - mt
   - fleecer-station
 MT75201:
@@ -11047,6 +11471,7 @@ MT75201:
   title: Ford Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - ford-cabin
 MT75279:
@@ -11073,6 +11498,7 @@ MT75279:
   title: Fourmile Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - fourmile-cabin
 MT75199:
@@ -11099,6 +11525,7 @@ MT75199:
   title: Fox Creek Cabin (MT)
   layout: campground
   categories:
+  - campground
   - mt
   - fox-creek-cabin-mt
 MT75198:
@@ -11125,6 +11552,7 @@ MT75198:
   title: Garnet Mountain Fire Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - garnet-mountain-fire-lookout
 MT75291:
@@ -11151,6 +11579,7 @@ MT75291:
   title: Garver MTn. Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - garver-mtn-lookout-rental
 MT75301:
@@ -11177,6 +11606,7 @@ MT75301:
   title: Gem Peak Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - gem-peak-lookout-rental
 MT75136:
@@ -11203,6 +11633,7 @@ MT75136:
   title: Gird Point
   layout: campground
   categories:
+  - campground
   - mt
   - gird-point
 MT75219:
@@ -11229,6 +11660,7 @@ MT75219:
   title: Gordon Reese Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - gordon-reese-cabin
 MT73593:
@@ -11255,6 +11687,7 @@ MT73593:
   title: Greek Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - greek-creek-campground
 MT71534:
@@ -11281,6 +11714,7 @@ MT71534:
   title: Greenough Lake
   layout: campground
   categories:
+  - campground
   - mt
   - greenough-lake
 MT630710:
@@ -11307,6 +11741,7 @@ MT630710:
   title: Hell Creek
   layout: campground
   categories:
+  - campground
   - mt
   - hell-creek
 MT100027:
@@ -11333,6 +11768,7 @@ MT100027:
   title: Hellgate Campground And Group Use Shelter Area
   layout: campground
   categories:
+  - campground
   - mt
   - hellgate-campground-and-group-use-shelter-area
 MT75220:
@@ -11359,6 +11795,7 @@ MT75220:
   title: Hells Canyon Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - hells-canyon-guard-station
 MT75262:
@@ -11385,6 +11822,7 @@ MT75262:
   title: High Rye Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - high-rye-cabin
 MT75216:
@@ -11411,6 +11849,7 @@ MT75216:
   title: Hogan Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - hogan-cabin
 MT72367:
@@ -11437,6 +11876,7 @@ MT72367:
   title: Hogback Homestead
   layout: campground
   categories:
+  - campground
   - mt
   - hogback-homestead
 MT75370:
@@ -11463,6 +11903,7 @@ MT75370:
   title: Holland Lake Campground
   layout: campground
   categories:
+  - campground
   - mt
   - holland-lake-campground
 MT73595:
@@ -11489,6 +11930,7 @@ MT73595:
   title: Hood Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - hood-creek-campground
 MT75205:
@@ -11515,6 +11957,7 @@ MT75205:
   title: Hornet Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - hornet-lookout
 MT75256:
@@ -11541,6 +11984,7 @@ MT75256:
   title: Horse Prairie Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - horse-prairie-cabin
 MT75281:
@@ -11567,6 +12011,7 @@ MT75281:
   title: Hunters Spring Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - hunters-spring-cabin
 MT75158:
@@ -11593,6 +12038,7 @@ MT75158:
   title: Ibex Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - ibex-cabin
 MT75328:
@@ -11619,6 +12065,7 @@ MT75328:
   title: Indian Flats Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - indian-flats-cabin
 MT100026:
@@ -11645,6 +12092,7 @@ MT100026:
   title: Indian Road Group Use Shelter
   layout: campground
   categories:
+  - campground
   - mt
   - indian-road-group-use-shelter
 MT73809:
@@ -11671,6 +12119,7 @@ MT73809:
   title: Indian Trees Campground
   layout: campground
   categories:
+  - campground
   - mt
   - indian-trees-campground
 MT75293:
@@ -11697,6 +12146,7 @@ MT75293:
   title: Judith Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - judith-guard-station
 MT75326:
@@ -11723,6 +12173,7 @@ MT75326:
   title: Kading Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - kading-cabin
 MT72137:
@@ -11749,6 +12200,7 @@ MT72137:
   title: Kenck Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - kenck-cabin
 MT75297:
@@ -11775,6 +12227,7 @@ MT75297:
   title: Kings Hill Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - kings-hill-cabin
 MT75211:
@@ -11801,6 +12254,7 @@ MT75211:
   title: Lake Alva Campground
   layout: campground
   categories:
+  - campground
   - mt
   - lake-alva-campground
 MT630513:
@@ -11827,6 +12281,7 @@ MT630513:
   title: Lake Elmo
   layout: campground
   categories:
+  - campground
   - mt
   - lake-elmo
 MT72104:
@@ -11853,6 +12308,7 @@ MT72104:
   title: Lake Inez Point 6 (Group Camp Site)
   layout: campground
   categories:
+  - campground
   - mt
   - lake-inez-point-6-group-camp-site
 MT630112:
@@ -11879,6 +12335,7 @@ MT630112:
   title: Lake Mary Ronan
   layout: campground
   categories:
+  - campground
   - mt
   - lake-mary-ronan
 MT72107:
@@ -11905,6 +12362,7 @@ MT72107:
   title: Lakeside Group Campsite
   layout: campground
   categories:
+  - campground
   - mt
   - lakeside-group-campsite
 MT73596:
@@ -11931,6 +12389,7 @@ MT73596:
   title: Langohr Campground
   layout: campground
   categories:
+  - campground
   - mt
   - langohr-campground
 MT75151:
@@ -11957,6 +12416,7 @@ MT75151:
   title: Larry Creek Group Camp
   layout: campground
   categories:
+  - campground
   - mt
   - larry-creek-group-camp
 MT630315:
@@ -11983,6 +12443,7 @@ MT630315:
   title: Lewis And Clark Caverns
   layout: campground
   categories:
+  - campground
   - mt
   - lewis-and-clark-caverns
 MT75354:
@@ -12009,6 +12470,7 @@ MT75354:
   title: Lid Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - lid-creek-campground
 MT71535:
@@ -12035,6 +12497,7 @@ MT71535:
   title: Limber Pine
   layout: campground
   categories:
+  - campground
   - mt
   - limber-pine
 MT75197:
@@ -12061,6 +12524,7 @@ MT75197:
   title: Little Bear Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - little-bear-cabin
 MT73974:
@@ -12087,6 +12551,7 @@ MT73974:
   title: Lodgepole Campground
   layout: campground
   categories:
+  - campground
   - mt
   - lodgepole-campground
 MT630114:
@@ -12113,6 +12578,7 @@ MT630114:
   title: Logan
   layout: campground
   categories:
+  - campground
   - mt
   - logan
 MT72360:
@@ -12139,6 +12605,7 @@ MT72360:
   title: Lonesomehurst Campground
   layout: campground
   categories:
+  - campground
   - mt
   - lonesomehurst-campground
 MT113340:
@@ -12165,6 +12632,7 @@ MT113340:
   title: Lost Johnny Point Campground
   layout: campground
   categories:
+  - campground
   - mt
   - lost-johnny-point-campground
 MT75467:
@@ -12191,6 +12659,7 @@ MT75467:
   title: Lower Hyalite Group
   layout: campground
   categories:
+  - campground
   - mt
   - lower-hyalite-group
 MT75258:
@@ -12217,6 +12686,7 @@ MT75258:
   title: Lowland Picnic Area
   layout: campground
   categories:
+  - campground
   - mt
   - lowland-picnic-area
 MT75218:
@@ -12243,6 +12713,7 @@ MT75218:
   title: Lupine Shelter
   layout: campground
   categories:
+  - campground
   - mt
   - lupine-shelter
 MT630711:
@@ -12269,6 +12740,7 @@ MT630711:
   title: Makoshika
   layout: campground
   categories:
+  - campground
   - mt
   - makoshika
 MT75501:
@@ -12295,6 +12767,7 @@ MT75501:
   title: Maxey Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - maxey-cabin
 MT75215:
@@ -12321,6 +12794,7 @@ MT75215:
   title: May Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - may-creek-cabin
 MT75152:
@@ -12347,6 +12821,7 @@ MT75152:
   title: Mccart Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - mccart-lookout
 MT75343:
@@ -12373,6 +12848,7 @@ MT75343:
   title: Mc Gillivray Campground (Group Site)
   layout: campground
   categories:
+  - campground
   - mt
   - mc-gillivray-campground-group-site
 MT72394:
@@ -12399,6 +12875,7 @@ MT72394:
   title: Mcgregor Lake Campground
   layout: campground
   categories:
+  - campground
   - mt
   - mcgregor-lake-campground
 MT75248:
@@ -12425,6 +12902,7 @@ MT75248:
   title: Mcguire MTn. Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - mcguire-mtn-lookout-rental
 MT75156:
@@ -12451,6 +12929,7 @@ MT75156:
   title: Medicine Point Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - medicine-point-lookout
 MT75175:
@@ -12477,6 +12956,7 @@ MT75175:
   title: Meyers Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - meyers-creek-cabin
 MT75168:
@@ -12503,6 +12983,7 @@ MT75168:
   title: Mill Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - mill-creek-cabin
 MT115089:
@@ -12529,6 +13010,7 @@ MT115089:
   title: Minton Peak Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - minton-peak-lookout
 MT75224:
@@ -12555,6 +13037,7 @@ MT75224:
   title: Mission Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - mission-lookout
 MT630317:
@@ -12581,6 +13064,7 @@ MT630317:
   title: Missouri Headwaters State Park
   layout: campground
   categories:
+  - campground
   - mt
   - missouri-headwaters-state-park
 MT75391:
@@ -12607,6 +13091,7 @@ MT75391:
   title: Monture Guard Station Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - monture-guard-station-cabin
 MT75294:
@@ -12633,6 +13118,7 @@ MT75294:
   title: Monument Peak Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - monument-peak-lookout
 MT72037:
@@ -12659,6 +13145,7 @@ MT72037:
   title: Moose Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - moose-creek-cabin
 MT73589:
@@ -12685,6 +13172,7 @@ MT73589:
   title: Moose Creek Flat Campground
   layout: campground
   categories:
+  - campground
   - mt
   - moose-creek-flat-campground
 MT73588:
@@ -12711,6 +13199,7 @@ MT73588:
   title: Moose Creek Group Site
   layout: campground
   categories:
+  - campground
   - mt
   - moose-creek-group-site
 MT75238:
@@ -12737,6 +13226,7 @@ MT75238:
   title: Moose Lake Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - moose-lake-cabin
 MT72366:
@@ -12763,6 +13253,7 @@ MT72366:
   title: Morgan Case Homestead
   layout: campground
   categories:
+  - campground
   - mt
   - morgan-case-homestead
 MT75299:
@@ -12789,6 +13280,7 @@ MT75299:
   title: MT. Baldy Buckhorn Ridge
   layout: campground
   categories:
+  - campground
   - mt
   - mt-baldy-buckhorn-ridge
 MT75250:
@@ -12815,6 +13307,7 @@ MT75250:
   title: MT. WAm Lookout Cabin Rental
   layout: campground
   categories:
+  - campground
   - mt
   - mt-wam-lookout-cabin-rental
 MT115989:
@@ -12841,6 +13334,7 @@ MT115989:
   title: Murray Bay Campground (MT)
   layout: campground
   categories:
+  - campground
   - mt
   - murray-bay-campground-mt
 MT75196:
@@ -12867,6 +13361,7 @@ MT75196:
   title: Mystic Lake Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - mystic-lake-cabin
 MT75203:
@@ -12893,6 +13388,7 @@ MT75203:
   title: Ninko Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - ninko-cabin
 MT73638:
@@ -12919,6 +13415,7 @@ MT73638:
   title: North Dickey Lake
   layout: campground
   categories:
+  - campground
   - mt
   - north-dickey-lake
 MT75182:
@@ -12945,6 +13442,7 @@ MT75182:
   title: Notch Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - notch-cabin
 MT72278:
@@ -12971,6 +13469,7 @@ MT72278:
   title: Old Condon Ranger Station
   layout: campground
   categories:
+  - campground
   - mt
   - old-condon-ranger-station
 MT75244:
@@ -12997,6 +13496,7 @@ MT75244:
   title: Owl Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - owl-creek-cabin
 MT71536:
@@ -13023,6 +13523,7 @@ MT71536:
   title: Parkside
   layout: campground
   categories:
+  - campground
   - mt
   - parkside
 MT75363:
@@ -13049,6 +13550,7 @@ MT75363:
   title: Pattee Canyon Picnic Area
   layout: campground
   categories:
+  - campground
   - mt
   - pattee-canyon-picnic-area
 MT73973:
@@ -13075,6 +13577,7 @@ MT73973:
   title: Philipsburg Bay Campground
   layout: campground
   categories:
+  - campground
   - mt
   - philipsburg-bay-campground
 MT73862:
@@ -13101,6 +13604,7 @@ MT73862:
   title: Pine Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - pine-creek-campground
 MT630218:
@@ -13127,6 +13631,7 @@ MT630218:
   title: Placid Lake
   layout: campground
   categories:
+  - campground
   - mt
   - placid-lake
 MT75160:
@@ -13153,6 +13658,7 @@ MT75160:
   title: Porcupine Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - porcupine-cabin
 MT75242:
@@ -13179,6 +13685,7 @@ MT75242:
   title: Racetrack Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - racetrack-cabin
 MT72014:
@@ -13205,6 +13712,7 @@ MT72014:
   title: Rainbow Point Campground
   layout: campground
   categories:
+  - campground
   - mt
   - rainbow-point-campground
 MT71537:
@@ -13231,6 +13739,7 @@ MT71537:
   title: Rattin Campground
   layout: campground
   categories:
+  - campground
   - mt
   - rattin-campground
 MT73587:
@@ -13257,6 +13766,7 @@ MT73587:
   title: Red Cliff Campground
   layout: campground
   categories:
+  - campground
   - mt
   - red-cliff-campground
 MT70535:
@@ -13283,6 +13793,7 @@ MT70535:
   title: Rexford Bench
   layout: campground
   categories:
+  - campground
   - mt
   - rexford-bench
 MT75455:
@@ -13309,6 +13820,7 @@ MT75455:
   title: Rillway Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - rillway-cabin
 MT115990:
@@ -13335,6 +13847,7 @@ MT115990:
   title: Riverside Campground (MT)
   layout: campground
   categories:
+  - campground
   - mt
   - riverside-campground-mt
 MT100030:
@@ -13361,6 +13874,7 @@ MT100030:
   title: Riverside Group Use Shelter
   layout: campground
   categories:
+  - campground
   - mt
   - riverside-group-use-shelter
 MT75514:
@@ -13387,6 +13901,7 @@ MT75514:
   title: Rombo
   layout: campground
   categories:
+  - campground
   - mt
   - rombo
 MT630219:
@@ -13413,6 +13928,7 @@ MT630219:
   title: Salmon Lake
   layout: campground
   categories:
+  - campground
   - mt
   - salmon-lake
 MT75277:
@@ -13439,6 +13955,7 @@ MT75277:
   title: Savenac Bunkhouse
   layout: campground
   categories:
+  - campground
   - mt
   - savenac-bunkhouse
 MT75285:
@@ -13465,6 +13982,7 @@ MT75285:
   title: Savenac Cookhouse
   layout: campground
   categories:
+  - campground
   - mt
   - savenac-cookhouse
 MT75284:
@@ -13491,6 +14009,7 @@ MT75284:
   title: Savenac West Cottage
   layout: campground
   categories:
+  - campground
   - mt
   - savenac-west-cottage
 MT75207:
@@ -13517,6 +14036,7 @@ MT75207:
   title: Schnaus Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - schnaus-cabin
 MT75300:
@@ -13543,6 +14063,7 @@ MT75300:
   title: Sex Peak. Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - sex-peak-lookout-rental
 MT71538:
@@ -13569,6 +14090,7 @@ MT71538:
   title: Sheridan
   layout: campground
   categories:
+  - campground
   - mt
   - sheridan
 MT72106:
@@ -13595,6 +14117,7 @@ MT72106:
   title: Silvertip Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - silvertip-cabin
 MT73863:
@@ -13621,6 +14144,7 @@ MT73863:
   title: Snowbank Campground
   layout: campground
   categories:
+  - campground
   - mt
   - snowbank-campground
 MT75342:
@@ -13647,6 +14171,7 @@ MT75342:
   title: South Dickey Lake
   layout: campground
   categories:
+  - campground
   - mt
   - south-dickey-lake
 MT75195:
@@ -13673,6 +14198,7 @@ MT75195:
   title: Spanish Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - spanish-creek-cabin
 MT73597:
@@ -13699,6 +14225,7 @@ MT73597:
   title: Spire Rock Campground
   layout: campground
   categories:
+  - campground
   - mt
   - spire-rock-campground
 MT70657:
@@ -13725,6 +14252,7 @@ MT70657:
   title: Spring Gulch
   layout: campground
   categories:
+  - campground
   - mt
   - spring-gulch
 MT73971:
@@ -13751,6 +14279,7 @@ MT73971:
   title: Spring Hill Campground
   layout: campground
   categories:
+  - campground
   - mt
   - spring-hill-campground
 MT70973:
@@ -13777,6 +14306,7 @@ MT70973:
   title: St. Mary Campground
   layout: campground
   categories:
+  - campground
   - mt
   - st-mary-campground
 MT75209:
@@ -13803,6 +14333,7 @@ MT75209:
   title: Star Meadows Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - star-meadows-guard-station
 MT75243:
@@ -13829,6 +14360,7 @@ MT75243:
   title: Stony Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - stony-cabin
 MT73590:
@@ -13855,6 +14387,7 @@ MT73590:
   title: Swan Creek Campground
   layout: campground
   categories:
+  - campground
   - mt
   - swan-creek-campground
 MT72279:
@@ -13881,6 +14414,7 @@ MT72279:
   title: Swan Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - swan-guard-station
 MT75362:
@@ -13907,6 +14441,7 @@ MT75362:
   title: Swan Lake Campground
   layout: campground
   categories:
+  - campground
   - mt
   - swan-lake-campground
 MT75352:
@@ -13933,6 +14468,7 @@ MT75352:
   title: Tally Lake Campground
   layout: campground
   categories:
+  - campground
   - mt
   - tally-lake-campground
 MT630117:
@@ -13959,6 +14495,7 @@ MT630117:
   title: Thompson Falls
   layout: campground
   categories:
+  - campground
   - mt
   - thompson-falls
 MT75456:
@@ -13985,6 +14522,7 @@ MT75456:
   title: Thompson Guard Station
   layout: campground
   categories:
+  - campground
   - mt
   - thompson-guard-station
 MT75282:
@@ -14011,6 +14549,7 @@ MT75282:
   title: Thompson Peak Lookout Tower
   layout: campground
   categories:
+  - campground
   - mt
   - thompson-peak-lookout-tower
 MT75344:
@@ -14037,6 +14576,7 @@ MT75344:
   title: Timberlane Campground
   layout: campground
   categories:
+  - campground
   - mt
   - timberlane-campground
 MT630715:
@@ -14063,6 +14603,7 @@ MT630715:
   title: Tongue River
   layout: campground
   categories:
+  - campground
   - mt
   - tongue-river
 MT75170:
@@ -14089,6 +14630,7 @@ MT75170:
   title: Trail Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - trail-creek-cabin
 MT75214:
@@ -14115,6 +14657,7 @@ MT75214:
   title: Twin Lakes Cabin (MT)
   layout: campground
   categories:
+  - campground
   - mt
   - twin-lakes-cabin-mt
 MT75155:
@@ -14141,6 +14684,7 @@ MT75155:
   title: Twogood Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - twogood-cabin
 MT75255:
@@ -14167,6 +14711,7 @@ MT75255:
   title: Up Up Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - up-up-lookout
 MT75253:
@@ -14193,6 +14738,7 @@ MT75253:
   title: Upper Ford Cabin Rental
   layout: campground
   categories:
+  - campground
   - mt
   - upper-ford-cabin-rental
 MT75226:
@@ -14219,6 +14765,7 @@ MT75226:
   title: Vigilante Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - vigilante-cabin
 MT75184:
@@ -14245,6 +14792,7 @@ MT75184:
   title: WAll Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - wall-creek-cabin
 MT75231:
@@ -14271,6 +14819,7 @@ MT75231:
   title: WApiti Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - wapiti-cabin
 MT630118:
@@ -14297,6 +14846,7 @@ MT630118:
   title: WAyfarers
   layout: campground
   categories:
+  - campground
   - mt
   - wayfarers
 MT75249:
@@ -14323,6 +14873,7 @@ MT75249:
   title: Webb MTn. Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - webb-mtn-lookout-rental
 MT75275:
@@ -14349,6 +14900,7 @@ MT75275:
   title: West Boulder Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - west-boulder-cabin
 MT75278:
@@ -14375,6 +14927,7 @@ MT75278:
   title: West Bridger Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - west-bridger-cabin
 MT75254:
@@ -14401,6 +14954,7 @@ MT75254:
   title: West Fork Butte Lookout
   layout: campground
   categories:
+  - campground
   - mt
   - west-fork-butte-lookout
 MT75237:
@@ -14427,6 +14981,7 @@ MT75237:
   title: West Fork Cabin (S Of Ennis)
   layout: campground
   categories:
+  - campground
   - mt
   - west-fork-cabin-s-of-ennis
 MT75283:
@@ -14453,6 +15008,7 @@ MT75283:
   title: West Fork Cabin (W Of Choteau)
   layout: campground
   categories:
+  - campground
   - mt
   - west-fork-cabin-w-of-choteau
 MT75321:
@@ -14479,6 +15035,7 @@ MT75321:
   title: West Fork Of Rock Creek Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - west-fork-of-rock-creek-cabin
 MT630119:
@@ -14505,6 +15062,7 @@ MT630119:
   title: West Shore
   layout: campground
   categories:
+  - campground
   - mt
   - west-shore
 MT100031:
@@ -14531,6 +15089,7 @@ MT100031:
   title: White Earth Group Use Shelter
   layout: campground
   categories:
+  - campground
   - mt
   - white-earth-group-use-shelter
 MT630120:
@@ -14557,6 +15116,7 @@ MT630120:
   title: Whitefish Lake
   layout: campground
   categories:
+  - campground
   - mt
   - whitefish-lake
 MT75223:
@@ -14583,6 +15143,7 @@ MT75223:
   title: Whitetail Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - whitetail-cabin
 MT75192:
@@ -14609,6 +15170,7 @@ MT75192:
   title: Window Rock Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - window-rock-cabin
 MT72154:
@@ -14635,6 +15197,7 @@ MT72154:
   title: Woodbine Campground
   layout: campground
   categories:
+  - campground
   - mt
   - woodbine-campground
 MT75146:
@@ -14661,6 +15224,7 @@ MT75146:
   title: Woods Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - woods-cabin
 MT75396:
@@ -14687,6 +15251,7 @@ MT75396:
   title: Wurtz Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - wurtz-cabin
 MT75252:
@@ -14713,6 +15278,7 @@ MT75252:
   title: Yaak MTn. Lookout Rental
   layout: campground
   categories:
+  - campground
   - mt
   - yaak-mtn-lookout-rental
 MT75341:
@@ -14739,6 +15305,7 @@ MT75341:
   title: Yaak River Day Use Area
   layout: campground
   categories:
+  - campground
   - mt
   - yaak-river-day-use-area
 MT75190:
@@ -14765,6 +15332,7 @@ MT75190:
   title: Yellow Mule Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - yellow-mule-cabin
 MT75202:
@@ -14791,6 +15359,7 @@ MT75202:
   title: Zips Place Cabin
   layout: campground
   categories:
+  - campground
   - mt
   - zips-place-cabin
 OR72346:
@@ -14817,6 +15386,7 @@ OR72346:
   title: Acker Rock Lookout
   layout: campground
   categories:
+  - campground
   - or
   - acker-rock-lookout
 OR75387:
@@ -14843,6 +15413,7 @@ OR75387:
   title: Alder Dune
   layout: campground
   categories:
+  - campground
   - or
   - alder-dune
 OR405326:
@@ -14869,6 +15440,7 @@ OR405326:
   title: Alfred A. Loeb State Park
   layout: campground
   categories:
+  - campground
   - or
   - alfred-a-loeb-state-park
 OR404072:
@@ -14895,6 +15467,7 @@ OR404072:
   title: Almeda
   layout: campground
   categories:
+  - campground
   - or
   - almeda
 OR72020:
@@ -14921,6 +15494,7 @@ OR72020:
   title: Anthony Lake
   layout: campground
   categories:
+  - campground
   - or
   - anthony-lake
 OR75100:
@@ -14947,6 +15521,7 @@ OR75100:
   title: Anthony Lake Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - anthony-lake-guard-station
 OR75059:
@@ -14973,6 +15548,7 @@ OR75059:
   title: Antlers Guard Station Cabin
   layout: campground
   categories:
+  - campground
   - or
   - antlers-guard-station-cabin
 OR71626:
@@ -14999,6 +15575,7 @@ OR71626:
   title: Armstrong
   layout: campground
   categories:
+  - campground
   - or
   - armstrong
 OR75022:
@@ -15025,6 +15602,7 @@ OR75022:
   title: Aspen Cabin
   layout: campground
   categories:
+  - campground
   - or
   - aspen-cabin
 OR73540:
@@ -15051,6 +15629,7 @@ OR73540:
   title: Aspen Point
   layout: campground
   categories:
+  - campground
   - or
   - aspen-point
 OR75026:
@@ -15077,6 +15656,7 @@ OR75026:
   title: Bald Butte Lookout
   layout: campground
   categories:
+  - campground
   - or
   - bald-butte-lookout
 OR74185:
@@ -15103,6 +15683,7 @@ OR74185:
   title: Bald Knob Lookout
   layout: campground
   categories:
+  - campground
   - or
   - bald-knob-lookout
 OR402155:
@@ -15129,6 +15710,7 @@ OR402155:
   title: Beachside State Recreation Site
   layout: campground
   categories:
+  - campground
   - or
   - beachside-state-recreation-site
 OR107683:
@@ -15155,6 +15737,7 @@ OR107683:
   title: Bear Springs Group Campground
   layout: campground
   categories:
+  - campground
   - or
   - bear-springs-group-campground
 OR75046:
@@ -15181,6 +15764,7 @@ OR75046:
   title: Beaver Sulphur
   layout: campground
   categories:
+  - campground
   - or
   - beaver-sulphur
 OR402126:
@@ -15207,6 +15791,7 @@ OR402126:
   title: Beverly Beach State Park
   layout: campground
   categories:
+  - campground
   - or
   - beverly-beach-state-park
 OR75542:
@@ -15233,6 +15818,7 @@ OR75542:
   title: Big Elk Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - big-elk-guard-station
 OR70586:
@@ -15259,6 +15845,7 @@ OR70586:
   title: Big Lake
   layout: campground
   categories:
+  - campground
   - or
   - big-lake
 OR108983:
@@ -15285,6 +15872,7 @@ OR108983:
   title: Big Lake West Campground
   layout: campground
   categories:
+  - campground
   - or
   - big-lake-west-campground
 OR72120:
@@ -15311,6 +15899,7 @@ OR72120:
   title: Big River
   layout: campground
   categories:
+  - campground
   - or
   - big-river
 OR75061:
@@ -15337,6 +15926,7 @@ OR75061:
   title: Black Canyon Campground
   layout: campground
   categories:
+  - campground
   - or
   - black-canyon-campground
 OR73918:
@@ -15363,6 +15953,7 @@ OR73918:
   title: Blackberry
   layout: campground
   categories:
+  - campground
   - or
   - blackberry
 OR71560:
@@ -15389,6 +15980,7 @@ OR71560:
   title: Blue Bay
   layout: campground
   categories:
+  - campground
   - or
   - blue-bay
 OR75473:
@@ -15415,6 +16007,7 @@ OR75473:
   title: Bluebill Campground
   layout: campground
   categories:
+  - campground
   - or
   - bluebill-campground
 OR74184:
@@ -15441,6 +16034,7 @@ OR74184:
   title: Bolan Mountain Lookout
   layout: campground
   categories:
+  - campground
   - or
   - bolan-mountain-lookout
 OR75014:
@@ -15467,6 +16061,7 @@ OR75014:
   title: Box Canyon Guard Station Cabin
   layout: campground
   categories:
+  - campground
   - or
   - box-canyon-guard-station-cabin
 OR72311:
@@ -15493,6 +16088,7 @@ OR72311:
   title: Breitenbush Campground
   layout: campground
   categories:
+  - campground
   - or
   - breitenbush-campground
 OR70186:
@@ -15519,6 +16115,7 @@ OR70186:
   title: Broken Arrow Campground
   layout: campground
   categories:
+  - campground
   - or
   - broken-arrow-campground
 OR402398:
@@ -15545,6 +16142,7 @@ OR402398:
   title: Bullards Beach State Park
   layout: campground
   categories:
+  - campground
   - or
   - bullards-beach-state-park
 OR75004:
@@ -15571,6 +16169,7 @@ OR75004:
   title: Butler Butte Cabin
   layout: campground
   categories:
+  - campground
   - or
   - butler-butte-cabin
 OR71620:
@@ -15597,6 +16196,7 @@ OR71620:
   title: Camp Creek
   layout: campground
   categories:
+  - campground
   - or
   - camp-creek
 OR72099:
@@ -15623,6 +16223,7 @@ OR72099:
   title: Camp Sherman Campground
   layout: campground
   categories:
+  - campground
   - or
   - camp-sherman-campground
 OR73847:
@@ -15649,6 +16250,7 @@ OR73847:
   title: Canal Creek
   layout: campground
   categories:
+  - campground
   - or
   - canal-creek
 OR402385:
@@ -15675,6 +16277,7 @@ OR402385:
   title: Cape Blanco State Park
   layout: campground
   categories:
+  - campground
   - or
   - cape-blanco-state-park
 OR402146:
@@ -15701,6 +16304,7 @@ OR402146:
   title: Cape Lookout State Park
   layout: campground
   categories:
+  - campground
   - or
   - cape-lookout-state-park
 OR73829:
@@ -15727,6 +16331,7 @@ OR73829:
   title: Cape Perpetua
   layout: campground
   categories:
+  - campground
   - or
   - cape-perpetua
 OR75133:
@@ -15753,6 +16358,7 @@ OR75133:
   title: Caretakers Cabin
   layout: campground
   categories:
+  - campground
   - or
   - caretakers-cabin
 OR402348:
@@ -15779,6 +16385,7 @@ OR402348:
   title: Carl G. WAshburne Memorial State Park
   layout: campground
   categories:
+  - campground
   - or
   - carl-g-washburne-memorial-state-park
 OR70451:
@@ -15805,6 +16412,7 @@ OR70451:
   title: Carter Lake
   layout: campground
   categories:
+  - campground
   - or
   - carter-lake
 OR402240:
@@ -15831,6 +16439,7 @@ OR402240:
   title: Cascadia State Park
   layout: campground
   categories:
+  - campground
   - or
   - cascadia-state-park
 OR405213:
@@ -15857,6 +16466,7 @@ OR405213:
   title: Champoeg State Heritage Area
   layout: campground
   categories:
+  - campground
   - or
   - champoeg-state-heritage-area
 OR72094:
@@ -15883,6 +16493,7 @@ OR72094:
   title: Chief Paulina Horse Campground
   layout: campground
   categories:
+  - campground
   - or
   - chief-paulina-horse-campground
 OR72383:
@@ -15909,6 +16520,7 @@ OR72383:
   title: Chinquapin Group Campground
   layout: campground
   categories:
+  - campground
   - or
   - chinquapin-group-campground
 OR72092:
@@ -15935,6 +16547,7 @@ OR72092:
   title: Cinder Hill Campground
   layout: campground
   categories:
+  - campground
   - or
   - cinder-hill-campground
 OR71656:
@@ -15961,6 +16574,7 @@ OR71656:
   title: Clackamas Lake
   layout: campground
   categories:
+  - campground
   - or
   - clackamas-lake
 OR75089:
@@ -15987,6 +16601,7 @@ OR75089:
   title: Clackamas Lake Historic Cabin
   layout: campground
   categories:
+  - campground
   - or
   - clackamas-lake-historic-cabin
 OR73723:
@@ -16013,6 +16628,7 @@ OR73723:
   title: Clark Creek ORganization Camp
   layout: campground
   categories:
+  - campground
   - or
   - clark-creek-organization-camp
 OR71633:
@@ -16039,6 +16655,7 @@ OR71633:
   title: Clear Lake (OR)
   layout: campground
   categories:
+  - campground
   - or
   - clear-lake-or
 OR75097:
@@ -16065,6 +16682,7 @@ OR75097:
   title: Clear Lake Cabin Lookout
   layout: campground
   categories:
+  - campground
   - or
   - clear-lake-cabin-lookout
 OR72187:
@@ -16091,6 +16709,7 @@ OR72187:
   title: Cleator Bend
   layout: campground
   categories:
+  - campground
   - or
   - cleator-bend
 OR405422:
@@ -16117,6 +16736,7 @@ OR405422:
   title: Clyde Holliday State Recreation Site
   layout: campground
   categories:
+  - campground
   - or
   - clyde-holliday-state-recreation-site
 OR74163:
@@ -16143,6 +16763,7 @@ OR74163:
   title: Cold Springs Cabin
   layout: campground
   categories:
+  - campground
   - or
   - cold-springs-cabin
 OR70587:
@@ -16169,6 +16790,7 @@ OR70587:
   title: Cold WAter Cove
   layout: campground
   categories:
+  - campground
   - or
   - cold-water-cove
 OR402488:
@@ -16195,6 +16817,7 @@ OR402488:
   title: Collier Memorial State Park
   layout: campground
   categories:
+  - campground
   - or
   - collier-memorial-state-park
 OR75049:
@@ -16221,6 +16844,7 @@ OR75049:
   title: Congo Gulch
   layout: campground
   categories:
+  - campground
   - or
   - congo-gulch
 OR75147:
@@ -16247,6 +16871,7 @@ OR75147:
   title: Contorta Point Group Camp
   layout: campground
   categories:
+  - campground
   - or
   - contorta-point-group-camp
 OR73513:
@@ -16273,6 +16898,7 @@ OR73513:
   title: Cove Creek
   layout: campground
   categories:
+  - campground
   - or
   - cove-creek
 OR402446:
@@ -16299,6 +16925,7 @@ OR402446:
   title: Cove Palisades State Park
   layout: campground
   categories:
+  - campground
   - or
   - cove-palisades-state-park
 OR74097:
@@ -16325,6 +16952,7 @@ OR74097:
   title: Crane Prairie Campground
   layout: campground
   categories:
+  - campground
   - or
   - crane-prairie-campground
 OR97724:
@@ -16351,6 +16979,7 @@ OR97724:
   title: Crescent Lake (OR)
   layout: campground
   categories:
+  - campground
   - or
   - crescent-lake-or
 OR75024:
@@ -16377,6 +17006,7 @@ OR75024:
   title: Currier Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - currier-guard-station
 OR74142:
@@ -16403,6 +17033,7 @@ OR74142:
   title: Deer Creek Guard Station Cabin
   layout: campground
   categories:
+  - campground
   - or
   - deer-creek-guard-station-cabin
 OR74177:
@@ -16429,6 +17060,7 @@ OR74177:
   title: Deer Flat Group Site (Horseshoe Bend Campground)
   layout: campground
   categories:
+  - campground
   - or
   - deer-flat-group-site-horseshoe-bend-campground
 OR72371:
@@ -16455,6 +17087,7 @@ OR72371:
   title: Delta
   layout: campground
   categories:
+  - campground
   - or
   - delta
 OR402465:
@@ -16481,6 +17114,7 @@ OR402465:
   title: Deschutes River State Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - deschutes-river-state-recreation-area
 OR402241:
@@ -16507,6 +17141,7 @@ OR402241:
   title: Detroit Lake State Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - detroit-lake-state-recreation-area
 OR402130:
@@ -16533,6 +17168,7 @@ OR402130:
   title: Devils Lake State Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - devils-lake-state-recreation-area
 OR70187:
@@ -16559,6 +17195,7 @@ OR70187:
   title: Diamond Lake
   layout: campground
   categories:
+  - campground
   - or
   - diamond-lake
 OR74174:
@@ -16585,6 +17222,7 @@ OR74174:
   title: Ditch Creek Guard Station Cab
   layout: campground
   categories:
+  - campground
   - or
   - ditch-creek-guard-station-cab
 OR75025:
@@ -16611,6 +17249,7 @@ OR75025:
   title: Drake Peak Lookout
   layout: campground
   categories:
+  - campground
   - or
   - drake-peak-lookout
 OR70452:
@@ -16637,6 +17276,7 @@ OR70452:
   title: Driftwood
   layout: campground
   categories:
+  - campground
   - or
   - driftwood
 OR75167:
@@ -16663,6 +17303,7 @@ OR75167:
   title: Eagle Creek Overlook Grp Site
   layout: campground
   categories:
+  - campground
   - or
   - eagle-creek-overlook-grp-site
 OR72041:
@@ -16689,6 +17330,7 @@ OR72041:
   title: Eagleview Group Campground (Reservation)
   layout: campground
   categories:
+  - campground
   - or
   - eagleview-group-campground-reservation
 OR74215:
@@ -16715,6 +17357,7 @@ OR74215:
   title: Edson Creek Group Campground
   layout: campground
   categories:
+  - campground
   - or
   - edson-creek-group-campground
 OR71985:
@@ -16741,6 +17384,7 @@ OR71985:
   title: Eel Creek Campground
   layout: campground
   categories:
+  - campground
   - or
   - eel-creek-campground
 OR402499:
@@ -16767,6 +17411,7 @@ OR402499:
   title: Emigrant Springs State Heritage Area
   layout: campground
   categories:
+  - campground
   - or
   - emigrant-springs-state-heritage-area
 OR74171:
@@ -16793,6 +17438,7 @@ OR74171:
   title: Fairview Peak Lookout Tower
   layout: campground
   categories:
+  - campground
   - or
   - fairview-peak-lookout-tower
 OR74144:
@@ -16819,6 +17465,7 @@ OR74144:
   title: Fall Mountain Lookout Cabin
   layout: campground
   categories:
+  - campground
   - or
   - fall-mountain-lookout-cabin
 OR93318:
@@ -16845,6 +17492,7 @@ OR93318:
   title: Fall River Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - fall-river-guard-station
 OR405413:
@@ -16871,6 +17519,7 @@ OR405413:
   title: Farewell Bend State Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - farewell-bend-state-recreation-area
 OR112390:
@@ -16897,6 +17546,7 @@ OR112390:
   title: Fernview Group Site
   layout: campground
   categories:
+  - campground
   - or
   - fernview-group-site
 OR71622:
@@ -16923,6 +17573,7 @@ OR71622:
   title: Fish Creek (OR)
   layout: campground
   categories:
+  - campground
   - or
   - fish-creek-or
 OR75013:
@@ -16949,6 +17600,7 @@ OR75013:
   title: Fish Lake Remount Depot Cabins
   layout: campground
   categories:
+  - campground
   - or
   - fish-lake-remount-depot-cabins
 OR74081:
@@ -16975,6 +17627,7 @@ OR74081:
   title: Fishermens Bend
   layout: campground
   categories:
+  - campground
   - or
   - fishermens-bend
 OR75098:
@@ -17001,6 +17654,7 @@ OR75098:
   title: Fivemile Butte Lookout
   layout: campground
   categories:
+  - campground
   - or
   - fivemile-butte-lookout
 OR75099:
@@ -17027,6 +17681,7 @@ OR75099:
   title: Flag Point Lookout
   layout: campground
   categories:
+  - campground
   - or
   - flag-point-lookout
 OR402178:
@@ -17053,6 +17708,7 @@ OR402178:
   title: Fort Stevens State Park
   layout: campground
   categories:
+  - campground
   - or
   - fort-stevens-state-park
 OR72112:
@@ -17079,6 +17735,7 @@ OR72112:
   title: Fox Creek Group Camp
   layout: campground
   categories:
+  - campground
   - or
   - fox-creek-group-camp
 OR108984:
@@ -17105,6 +17762,7 @@ OR108984:
   title: French Pete Campground
   layout: campground
   categories:
+  - campground
   - or
   - french-pete-campground
 OR108985:
@@ -17131,6 +17789,7 @@ OR108985:
   title: Frissell Crossing Campground
   layout: campground
   categories:
+  - campground
   - or
   - frissell-crossing-campground
 OR71632:
@@ -17157,6 +17816,7 @@ OR71632:
   title: Frog Lake
   layout: campground
   categories:
+  - campground
   - or
   - frog-lake
 OR75340:
@@ -17183,6 +17843,7 @@ OR75340:
   title: Fry Meadows Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - fry-meadows-guard-station
 OR75520:
@@ -17209,6 +17870,7 @@ OR75520:
   title: Gold Butte Lookout
   layout: campground
   categories:
+  - campground
   - or
   - gold-butte-lookout
 OR71652:
@@ -17235,6 +17897,7 @@ OR71652:
   title: 'Gone Creek '
   layout: campground
   categories:
+  - campground
   - or
   - gone-creek
 OR402478:
@@ -17261,6 +17924,7 @@ OR402478:
   title: Goose Lake State Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - goose-lake-state-recreation-area
 OR75358:
@@ -17287,6 +17951,7 @@ OR75358:
   title: Green Ridge Lookout
   layout: campground
   categories:
+  - campground
   - or
   - green-ridge-lookout
 OR404073:
@@ -17313,6 +17978,7 @@ OR404073:
   title: Griffin Park
   layout: campground
   categories:
+  - campground
   - or
   - griffin-park
 OR72093:
@@ -17339,6 +18005,7 @@ OR72093:
   title: Gull Point Campground
   layout: campground
   categories:
+  - campground
   - or
   - gull-point-campground
 OR75027:
@@ -17365,6 +18032,7 @@ OR75027:
   title: Hager Mountain Lookout
   layout: campground
   categories:
+  - campground
   - or
   - hager-mountain-lookout
 OR75064:
@@ -17391,6 +18059,7 @@ OR75064:
   title: Hard Rock Campground
   layout: campground
   categories:
+  - campground
   - or
   - hard-rock-campground
 OR405331:
@@ -17417,6 +18086,7 @@ OR405331:
   title: Harris Beach State Park
   layout: campground
   categories:
+  - campground
   - or
   - harris-beach-state-park
 OR72083:
@@ -17443,6 +18113,7 @@ OR72083:
   title: Hart Tish Park At Applegate Lake
   layout: campground
   categories:
+  - campground
   - or
   - hart-tish-park-at-applegate-lake
 OR75034:
@@ -17469,6 +18140,7 @@ OR75034:
   title: Hauser Sand Camping
   layout: campground
   categories:
+  - campground
   - or
   - hauser-sand-camping
 OR112239:
@@ -17495,6 +18167,7 @@ OR112239:
   title: Haystack Campground (East Shore)
   layout: campground
   categories:
+  - campground
   - or
   - haystack-campground-east-shore
 OR72429:
@@ -17521,6 +18194,7 @@ OR72429:
   title: Hemlock Cabin
   layout: campground
   categories:
+  - campground
   - or
   - hemlock-cabin
 OR75047:
@@ -17547,6 +18221,7 @@ OR75047:
   title: Hilltop Hideaway
   layout: campground
   categories:
+  - campground
   - or
   - hilltop-hideaway
 OR71653:
@@ -17573,6 +18248,7 @@ OR71653:
   title: 'Hoodview '
   layout: campground
   categories:
+  - campground
   - or
   - hoodview
 OR73512:
@@ -17599,6 +18275,7 @@ OR73512:
   title: Hoover Campground
   layout: campground
   categories:
+  - campground
   - or
   - hoover-campground
 OR70191:
@@ -17625,6 +18302,7 @@ OR70191:
   title: Horse Creek Group Campground
   layout: campground
   categories:
+  - campground
   - or
   - horse-creek-group-campground
 OR70453:
@@ -17651,6 +18329,7 @@ OR70453:
   title: 'Horsfall '
   layout: campground
   categories:
+  - campground
   - or
   - horsfall
 OR75121:
@@ -17677,6 +18356,7 @@ OR75121:
   title: Horsfall Beach
   layout: campground
   categories:
+  - campground
   - or
   - horsfall-beach
 OR75043:
@@ -17703,6 +18383,7 @@ OR75043:
   title: Horsfall Sand Camping
   layout: campground
   categories:
+  - campground
   - or
   - horsfall-sand-camping
 OR72304:
@@ -17729,6 +18410,7 @@ OR72304:
   title: House Rock Campground
   layout: campground
   categories:
+  - campground
   - or
   - house-rock-campground
 OR402388:
@@ -17755,6 +18437,7 @@ OR402388:
   title: Humbug Mountain State Park
   layout: campground
   categories:
+  - campground
   - or
   - humbug-mountain-state-park
 OR151325:
@@ -17781,6 +18464,7 @@ OR151325:
   title: Hyatt Lake Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - hyatt-lake-recreation-area
 OR75065:
@@ -17807,6 +18491,7 @@ OR75065:
   title: IDlewild
   layout: campground
   categories:
+  - campground
   - or
   - idlewild
 OR74198:
@@ -17833,6 +18518,7 @@ OR74198:
   title: Imnaha Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - imnaha-guard-station
 OR71636:
@@ -17859,6 +18545,7 @@ OR71636:
   title: Indian Henry
   layout: campground
   categories:
+  - campground
   - or
   - indian-henry
 OR404074:
@@ -17885,6 +18572,7 @@ OR404074:
   title: Indian Mary
   layout: campground
   categories:
+  - campground
   - or
   - indian-mary
 OR75012:
@@ -17911,6 +18599,7 @@ OR75012:
   title: Indian Ridge Lookout
   layout: campground
   categories:
+  - campground
   - or
   - indian-ridge-lookout
 OR402450:
@@ -17937,6 +18626,7 @@ OR402450:
   title: Jasper Point State Park
   layout: campground
   categories:
+  - campground
   - or
   - jasper-point-state-park
 OR402334:
@@ -17963,6 +18653,7 @@ OR402334:
   title: Jessie M. Honeyman Memorial State Park
   layout: campground
   categories:
+  - campground
   - or
   - jessie-m-honeyman-memorial-state-park
 OR110537:
@@ -17989,6 +18680,7 @@ OR110537:
   title: Jim Creek Group Campground
   layout: campground
   categories:
+  - campground
   - or
   - jim-creek-group-campground
 OR71649:
@@ -18015,6 +18707,7 @@ OR71649:
   title: Joe Graham Horse Campground
   layout: campground
   categories:
+  - campground
   - or
   - joe-graham-horse-campground
 OR402366:
@@ -18041,6 +18734,7 @@ OR402366:
   title: Joseph H. Stewart State Recreation Area
   layout: campground
   categories:
+  - campground
   - or
   - joseph-h-stewart-state-recreation-area
 OR71639:
@@ -18067,6 +18761,7 @@ OR71639:
   title: Kingfisher
   layout: campground
   categories:
+  - campground
   - or
   - kingfisher
 OR402294:
@@ -18093,6 +18788,7 @@ OR402294:
   title: L.L. Stub Stewart Memorial State Park
   layout: campground
   categories:
+  - campground
   - or
   - l-l-stub-stewart-memorial-state-park
 OR75472:
@@ -18119,6 +18815,7 @@ OR75472:
   title: Lagoon Campground
   layout: campground
   categories:
+  - campground
   - or
   - lagoon-campground
 OR71641:
@@ -18145,6 +18842,7 @@ OR71641:
   title: 'Lake Harriet '
   layout: campground
   categories:
+  - campground
   - or
   - lake-harriet
 OR74188:
@@ -18171,6 +18869,7 @@ OR74188:
   title: Lake Of The Woods Lookout
   layout: campground
   categories:
+  - campground
   - or
   - lake-of-the-woods-lookout
 OR405415:
@@ -18197,6 +18896,7 @@ OR405415:
   title: Lake Owyhee State Park
   layout: campground
   categories:
+  - campground
   - or
   - lake-owyhee-state-park
 OR404075:
@@ -18223,6 +18923,7 @@ OR404075:
   title: Lake Selmac
   layout: campground
   categories:
+  - campground
   - or
   - lake-selmac
 OR402479:
@@ -18249,6 +18950,7 @@ OR402479:
   title: La Pine State Park
   layout: campground
   categories:
+  - campground
   - or
   - la-pine-state-park
 OR71624:
@@ -18275,6 +18977,7 @@ OR71624:
   title: Lazy Bend
   layout: campground
   categories:
+  - campground
   - or
   - lazy-bend
 OR73248:
@@ -18301,6 +19004,7 @@ OR73248:
   title: Lepage Park
   layout: campground
   categories:
+  - campground
   - or
   - lepage-park
 OR108986:
@@ -18327,6 +19031,7 @@ OR108986:
   title: Limberlost Campground
   layout: campground
   categories:
+  - campground
   - or
   - limberlost-campground
 OR71561:
@@ -18353,6 +19058,7 @@ OR71561:
   title: Link Creek
   layout: campground
   categories:
+  - campground
   - or
   - link-creek
 OR71658:
@@ -18379,6 +19085,7 @@ OR71658:
   title: Little Crater Lake
   layout: campground
   categories:
+  - campground
   - or
   - little-crater-lake
 OR73649:
@@ -18405,6 +19112,7 @@ OR73649:
   title: Little Fawn Group Camp
   layout: campground
   categories:
+  - campground
   - or
   - little-fawn-group-camp
 OR72118:
@@ -18431,6 +19139,7 @@ OR72118:
   title: Little Lava Lake
   layout: campground
   categories:
+  - campground
   - or
   - little-lava-lake
 OR71625:
@@ -18457,6 +19166,7 @@ OR71625:
   title: Lockaby
   layout: campground
   categories:
+  - campground
   - or
   - lockaby
 OR75543:
@@ -18483,6 +19193,7 @@ OR75543:
   title: Lodgepole Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - lodgepole-guard-station
 OR72042:
@@ -18509,6 +19220,7 @@ OR72042:
   title: Lone Pine Group Campground (Reservation)
   layout: campground
   categories:
+  - campground
   - or
   - lone-pine-group-campground-reservation
 OR70637:
@@ -18535,6 +19247,7 @@ OR70637:
   title: Longbow ORganization Group
   layout: campground
   categories:
+  - campground
   - or
   - longbow-organization-group
 OR74083:
@@ -18561,6 +19274,7 @@ OR74083:
   title: Loon Lake Recreation Site
   layout: campground
   categories:
+  - campground
   - or
   - loon-lake-recreation-site
 OR71621:
@@ -18587,6 +19301,7 @@ OR71621:
   title: Lost Creek
   layout: campground
   categories:
+  - campground
   - or
   - lost-creek
 OR112389:
@@ -18613,6 +19328,7 @@ OR112389:
   title: Lost Prairie Group Site
   layout: campground
   categories:
+  - campground
   - or
   - lost-prairie-group-site
 OR75002:
@@ -18639,6 +19355,7 @@ OR75002:
   title: Ludlum House
   layout: campground
   categories:
+  - campground
   - or
   - ludlum-house
 OR75128:
@@ -18665,6 +19382,7 @@ OR75128:
   title: Magone Lake
   layout: campground
   categories:
+  - campground
   - or
   - magone-lake
 OR75045:
@@ -18691,6 +19409,7 @@ OR75045:
   title: Mckee Bridge Community Kitchen
   layout: campground
   categories:
+  - campground
   - or
   - mckee-bridge-community-kitchen
 OR70192:
@@ -18717,6 +19436,7 @@ OR70192:
   title: Mckenzie Bridge
   layout: campground
   categories:
+  - campground
   - or
   - mckenzie-bridge
 OR402267:
@@ -18743,6 +19463,7 @@ OR402267:
   title: Memaloose State Park
   layout: campground
   categories:
+  - campground
   - or
   - memaloose-state-park
 OR72043:
@@ -18769,6 +19490,7 @@ OR72043:
   title: Millpond Pavilion
   layout: campground
   categories:
+  - campground
   - or
   - millpond-pavilion
 OR402284:
@@ -18795,6 +19517,7 @@ OR402284:
   title: Milo Mc Iver State Park
   layout: campground
   categories:
+  - campground
   - or
   - milo-mc-iver-state-park
 OR75048:
@@ -18821,6 +19544,7 @@ OR75048:
   title: Miners Retreat
   layout: campground
   categories:
+  - campground
   - or
   - miners-retreat
 OR72372:
@@ -18847,6 +19571,7 @@ OR72372:
   title: 'Mona '
   layout: campground
   categories:
+  - campground
   - or
   - mona
 OR72151:
@@ -18873,6 +19598,7 @@ OR72151:
   title: Mud Lake Campground
   layout: campground
   categories:
+  - campground
   - or
   - mud-lake-campground
 OR74143:
@@ -18899,6 +19625,7 @@ OR74143:
   title: Murderers Creek Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - murderers-creek-guard-station
 OR74172:
@@ -18925,6 +19652,7 @@ OR74172:
   title: Musick Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - musick-guard-station
 OR402191:
@@ -18951,6 +19679,7 @@ OR402191:
   title: Nehalem Bay State Park
   layout: campground
   categories:
+  - campground
   - or
   - nehalem-bay-state-park
 OR70614:
@@ -18977,6 +19706,7 @@ OR70614:
   title: Newberry Group Camp Site
   layout: campground
   categories:
+  - campground
   - or
   - newberry-group-camp-site
 OR72399:
@@ -19003,6 +19733,7 @@ OR72399:
   title: North WAldo
   layout: campground
   categories:
+  - campground
   - or
   - north-waldo
 OR71654:
@@ -19029,6 +19760,7 @@ OR71654:
   title: 'Oak Fork '
   layout: campground
   categories:
+  - campground
   - or
   - oak-fork
 OR72781:
@@ -19055,6 +19787,7 @@ OR72781:
   title: Ochoco Divide Group Site
   layout: campground
   categories:
+  - campground
   - or
   - ochoco-divide-group-site
 OR73823:
@@ -19081,6 +19814,7 @@ OR73823:
   title: Ochoco Forest Camp
   layout: campground
   categories:
+  - campground
   - or
   - ochoco-forest-camp
 OR94819:
@@ -19107,6 +19841,7 @@ OR94819:
   title: Ochoco Ranger Rental
   layout: campground
   categories:
+  - campground
   - or
   - ochoco-ranger-rental
 OR71704:
@@ -19133,6 +19868,7 @@ OR71704:
   title: Ogden Group
   layout: campground
   categories:
+  - campground
   - or
   - ogden-group
 OR70811:
@@ -19159,6 +19895,7 @@ OR70811:
   title: Olallie At Mckenzie Bridge
   layout: campground
   categories:
+  - campground
   - or
   - olallie-at-mckenzie-bridge
 OR72315:
@@ -19185,6 +19922,7 @@ OR72315:
   title: Olallie Lake Guard Station Cabin
   layout: campground
   categories:
+  - campground
   - or
   - olallie-lake-guard-station-cabin
 OR75016:
@@ -19211,6 +19949,7 @@ OR75016:
   title: Old Miners Meadow Group Use
   layout: campground
   categories:
+  - campground
   - or
   - old-miners-meadow-group-use
 OR74196:
@@ -19237,6 +19976,7 @@ OR74196:
   title: Onion Mountain Lookout
   layout: campground
   categories:
+  - campground
   - or
   - onion-mountain-lookout
 OR402500:
@@ -19263,6 +20003,7 @@ OR402500:
   title: Oxbow Regional Park
   layout: campground
   categories:
+  - campground
   - or
   - oxbow-regional-park
 OR71697:
@@ -19289,6 +20030,7 @@ OR71697:
   title: 'Packard Creek '
   layout: campground
   categories:
+  - campground
   - or
   - packard-creek
 OR74193:
@@ -19315,6 +20057,7 @@ OR74193:
   title: Packers Cabin
   layout: campground
   categories:
+  - campground
   - or
   - packers-cabin
 OR70193:
@@ -19341,6 +20084,7 @@ OR70193:
   title: Paradise In ORegon
   layout: campground
   categories:
+  - campground
   - or
   - paradise-in-oregon
 OR72097:
@@ -19367,6 +20111,7 @@ OR72097:
   title: Paulina Lake Campground
   layout: campground
   categories:
+  - campground
   - or
   - paulina-lake-campground
 OR75058:
@@ -19393,6 +20138,7 @@ OR75058:
   title: Peavy Cabin
   layout: campground
   categories:
+  - campground
   - or
   - peavy-cabin
 OR74168:
@@ -19419,6 +20165,7 @@ OR74168:
   title: Perry South Campground
   layout: campground
   categories:
+  - campground
   - or
   - perry-south-campground
 OR74178:
@@ -19445,6 +20192,7 @@ OR74178:
   title: Pickett Butte Lookout
   layout: campground
   categories:
+  - campground
   - or
   - pickett-butte-lookout
 OR73343:
@@ -19471,6 +20219,7 @@ OR73343:
   title: Pine Meadows Campground
   layout: campground
   categories:
+  - campground
   - or
   - pine-meadows-campground
 OR71651:
@@ -19497,6 +20246,7 @@ OR71651:
   title: 'Pine Point '
   layout: campground
   categories:
+  - campground
   - or
   - pine-point
 OR70188:
@@ -19523,6 +20273,7 @@ OR70188:
   title: Poole Creek
   layout: campground
   categories:
+  - campground
   - or
   - poole-creek
 OR402461:
@@ -19549,6 +20300,7 @@ OR402461:
   title: Prineville Reservoir State Park
   layout: campground
   categories:
+  - campground
   - or
   - prineville-reservoir-state-park
 OR73650:
@@ -19575,6 +20327,7 @@ OR73650:
   title: Quinn Meadow Horse Camp
   layout: campground
   categories:
+  - campground
   - or
   - quinn-meadow-horse-camp
 OR71634:
@@ -19601,6 +20354,7 @@ OR71634:
   title: Raab
   layout: campground
   categories:
+  - campground
   - or
   - raab
 OR71628:
@@ -19627,6 +20381,7 @@ OR71628:
   title: Rainbow (OR)
   layout: campground
   categories:
+  - campground
   - or
   - rainbow-or
 OR73539:
@@ -19653,6 +20408,7 @@ OR73539:
   title: Rainbow Bay
   layout: campground
   categories:
+  - campground
   - or
   - rainbow-bay
 OR75066:
@@ -19679,6 +20435,7 @@ OR75066:
   title: Red Diamond Campground
   layout: campground
   categories:
+  - campground
   - or
   - red-diamond-campground
 OR71617:
@@ -19705,6 +20462,7 @@ OR71617:
   title: Riley Horse Campground
   layout: campground
   categories:
+  - campground
   - or
   - riley-horse-campground
 OR71627:
@@ -19731,6 +20489,7 @@ OR71627:
   title: Ripplebrook
   layout: campground
   categories:
+  - campground
   - or
   - ripplebrook
 OR73832:
@@ -19757,6 +20516,7 @@ OR73832:
   title: River Edge
   layout: campground
   categories:
+  - campground
   - or
   - river-edge
 OR71623:
@@ -19783,6 +20543,7 @@ OR71623:
   title: Riverside (OR)
   layout: campground
   categories:
+  - campground
   - or
   - riverside-or
 OR72186:
@@ -19809,6 +20570,7 @@ OR72186:
   title: Riverside At Detroit
   layout: campground
   categories:
+  - campground
   - or
   - riverside-at-detroit
 OR71631:
@@ -19835,6 +20597,7 @@ OR71631:
   title: Roaring River
   layout: campground
   categories:
+  - campground
   - or
   - roaring-river
 OR70190:
@@ -19861,6 +20624,7 @@ OR70190:
   title: Roaring River (Group)
   layout: campground
   categories:
+  - campground
   - or
   - roaring-river-group
 OR71659:
@@ -19887,6 +20651,7 @@ OR71659:
   title: Rock Creek (OR)
   layout: campground
   categories:
+  - campground
   - or
   - rock-creek-or
 OR73917:
@@ -19913,6 +20678,7 @@ OR73917:
   title: Rock Creek   Siuslaw
   layout: campground
   categories:
+  - campground
   - or
   - rock-creek-siuslaw
 OR72044:
@@ -19939,6 +20705,7 @@ OR72044:
   title: Rock Creek Pavilion
   layout: campground
   categories:
+  - campground
   - or
   - rock-creek-pavilion
 OR79058:
@@ -19965,6 +20732,7 @@ OR79058:
   title: Rujada Day Use Picnic Area
   layout: campground
   categories:
+  - campground
   - or
   - rujada-day-use-picnic-area
 OR402194:
@@ -19991,6 +20759,7 @@ OR402194:
   title: Saddle Mountain State Natural Area
   layout: campground
   categories:
+  - campground
   - or
   - saddle-mountain-state-natural-area
 OR70185:
@@ -20017,6 +20786,7 @@ OR70185:
   title: Sandbeach
   layout: campground
   categories:
+  - campground
   - or
   - sandbeach
 OR404076:
@@ -20043,6 +20813,7 @@ OR404076:
   title: Schroeder
   layout: campground
   categories:
+  - campground
   - or
   - schroeder
 OR73394:
@@ -20069,6 +20840,7 @@ OR73394:
   title: Schwarz Park
   layout: campground
   categories:
+  - campground
   - or
   - schwarz-park
 OR71562:
@@ -20095,6 +20867,7 @@ OR71562:
   title: Scout Lake
   layout: campground
   categories:
+  - campground
   - or
   - scout-lake
 OR75067:
@@ -20121,6 +20894,7 @@ OR75067:
   title: Shadow Bay
   layout: campground
   categories:
+  - campground
   - or
   - shadow-bay
 OR96919:
@@ -20147,6 +20921,7 @@ OR96919:
   title: Sheep Bridge
   layout: campground
   categories:
+  - campground
   - or
   - sheep-bridge
 OR73629:
@@ -20173,6 +20948,7 @@ OR73629:
   title: Sheep Springs Horse Camp
   layout: campground
   categories:
+  - campground
   - or
   - sheep-springs-horse-camp
 OR72175:
@@ -20199,6 +20975,7 @@ OR72175:
   title: Short Creek Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - short-creek-guard-station
 OR75035:
@@ -20225,6 +21002,7 @@ OR75035:
   title: Siltcoos Sand Camping
   layout: campground
   categories:
+  - campground
   - or
   - siltcoos-sand-camping
 OR402234:
@@ -20251,6 +21029,7 @@ OR402234:
   title: Silver Falls Conference Center.
   layout: campground
   categories:
+  - campground
   - or
   - silver-falls-conference-center-
 OR402235:
@@ -20277,6 +21056,7 @@ OR402235:
   title: Silver Falls State Park
   layout: campground
   categories:
+  - campground
   - or
   - silver-falls-state-park
 OR71545:
@@ -20303,6 +21083,7 @@ OR71545:
   title: Simax Group Camp
   layout: campground
   categories:
+  - campground
   - or
   - simax-group-camp
 OR72370:
@@ -20329,6 +21110,7 @@ OR72370:
   title: Slide Creek
   layout: campground
   categories:
+  - campground
   - or
   - slide-creek
 OR72098:
@@ -20355,6 +21137,7 @@ OR72098:
   title: Smiling River Campground
   layout: campground
   categories:
+  - campground
   - or
   - smiling-river-campground
 OR74190:
@@ -20381,6 +21164,7 @@ OR74190:
   title: Snow Camp Lookout
   layout: campground
   categories:
+  - campground
   - or
   - snow-camp-lookout
 OR402165:
@@ -20407,6 +21191,7 @@ OR402165:
   title: South Beach State Park
   layout: campground
   categories:
+  - campground
   - or
   - south-beach-state-park
 OR75036:
@@ -20433,6 +21218,7 @@ OR75036:
   title: South Jetty Sand Camping
   layout: campground
   categories:
+  - campground
   - or
   - south-jetty-sand-camping
 OR71564:
@@ -20459,6 +21245,7 @@ OR71564:
   title: South Shore
   layout: campground
   categories:
+  - campground
   - or
   - south-shore
 OR72152:
@@ -20485,6 +21272,7 @@ OR72152:
   title: South Shore Group Sites
   layout: campground
   categories:
+  - campground
   - or
   - south-shore-group-sites
 OR70189:
@@ -20511,6 +21299,7 @@ OR70189:
   title: South Shore Pavilion
   layout: campground
   categories:
+  - campground
   - or
   - south-shore-pavilion
 OR73812:
@@ -20537,6 +21326,7 @@ OR73812:
   title: Spinreel
   layout: campground
   categories:
+  - campground
   - or
   - spinreel
 OR75044:
@@ -20563,6 +21353,7 @@ OR75044:
   title: Spinreel Sand Camping
   layout: campground
   categories:
+  - campground
   - or
   - spinreel-sand-camping
 OR72133:
@@ -20589,6 +21380,7 @@ OR72133:
   title: Spring
   layout: campground
   categories:
+  - campground
   - or
   - spring
 OR72347:
@@ -20615,6 +21407,7 @@ OR72347:
   title: Spring Drive Rv Campground
   layout: campground
   categories:
+  - campground
   - or
   - spring-drive-rv-campground
 OR73927:
@@ -20641,6 +21434,7 @@ OR73927:
   title: Squaw Lakes
   layout: campground
   categories:
+  - campground
   - or
   - squaw-lakes
 OR74175:
@@ -20667,6 +21461,7 @@ OR74175:
   title: Steamboat Ball Field Group S
   layout: campground
   categories:
+  - campground
   - or
   - steamboat-ball-field-group-s
 OR71618:
@@ -20693,6 +21488,7 @@ OR71618:
   title: Still Creek
   layout: campground
   categories:
+  - campground
   - or
   - still-creek
 OR73774:
@@ -20719,6 +21515,7 @@ OR73774:
   title: Sulphur
   layout: campground
   categories:
+  - campground
   - or
   - sulphur
 OR75339:
@@ -20745,6 +21542,7 @@ OR75339:
   title: Summit Guard Station Bunkhouse
   layout: campground
   categories:
+  - campground
   - or
   - summit-guard-station-bunkhouse
 OR108987:
@@ -20771,6 +21569,7 @@ OR108987:
   title: Sunnyside Campground
   layout: campground
   categories:
+  - campground
   - or
   - sunnyside-campground
 OR73538:
@@ -20797,6 +21596,7 @@ OR73538:
   title: Sunset
   layout: campground
   categories:
+  - campground
   - or
   - sunset
 OR402382:
@@ -20823,6 +21623,7 @@ OR402382:
   title: Sunset Bay State Park
   layout: campground
   categories:
+  - campground
   - or
   - sunset-bay-state-park
 OR72176:
@@ -20849,6 +21650,7 @@ OR72176:
   title: Sunshine Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - sunshine-guard-station
 OR71629:
@@ -20875,6 +21677,7 @@ OR71629:
   title: Sunstrip
   layout: campground
   categories:
+  - campground
   - or
   - sunstrip
 OR73813:
@@ -20901,6 +21704,7 @@ OR73813:
   title: Sutton Campground
   layout: campground
   categories:
+  - campground
   - or
   - sutton-campground
 OR71982:
@@ -20927,6 +21731,7 @@ OR71982:
   title: Tahkenitch Campground
   layout: campground
   categories:
+  - campground
   - or
   - tahkenitch-campground
 OR73814:
@@ -20953,6 +21758,7 @@ OR73814:
   title: Tahkenitch Landing
   layout: campground
   categories:
+  - campground
   - or
   - tahkenitch-landing
 OR74166:
@@ -20979,6 +21785,7 @@ OR74166:
   title: Tamarack Lookout Cabin
   layout: campground
   categories:
+  - campground
   - or
   - tamarack-lookout-cabin
 OR73919:
@@ -21005,6 +21812,7 @@ OR73919:
   title: Tillicum
   layout: campground
   categories:
+  - campground
   - or
   - tillicum
 OR72353:
@@ -21031,6 +21839,7 @@ OR72353:
   title: Tilly Jane A Frame
   layout: campground
   categories:
+  - campground
   - or
   - tilly-jane-a-frame
 OR72357:
@@ -21057,6 +21866,7 @@ OR72357:
   title: Tilly Jane Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - tilly-jane-guard-station
 OR72017:
@@ -21083,6 +21893,7 @@ OR72017:
   title: Timber Butte Cabin
   layout: campground
   categories:
+  - campground
   - or
   - timber-butte-cabin
 OR75028:
@@ -21109,6 +21920,7 @@ OR75028:
   title: Timpanogas
   layout: campground
   categories:
+  - campground
   - or
   - timpanogas
 OR71619:
@@ -21135,6 +21947,7 @@ OR71619:
   title: Tollgate
   layout: campground
   categories:
+  - campground
   - or
   - tollgate
 OR72095:
@@ -21161,6 +21974,7 @@ OR72095:
   title: Trapper Creek Campground
   layout: campground
   categories:
+  - campground
   - or
   - trapper-creek-campground
 OR71614:
@@ -21187,6 +22001,7 @@ OR71614:
   title: Trillium
   layout: campground
   categories:
+  - campground
   - or
   - trillium
 OR72305:
@@ -21213,6 +22028,7 @@ OR72305:
   title: Trout Creek Campground
   layout: campground
   categories:
+  - campground
   - or
   - trout-creek-campground
 OR402486:
@@ -21239,6 +22055,7 @@ OR402486:
   title: Tumalo State Park
   layout: campground
   categories:
+  - campground
   - or
   - tumalo-state-park
 OR75228:
@@ -21265,6 +22082,7 @@ OR75228:
   title: Two Color Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - two-color-guard-station
 OR71983:
@@ -21291,6 +22109,7 @@ OR71983:
   title: Tyee Campground
   layout: campground
   categories:
+  - campground
   - or
   - tyee-campground
 OR72045:
@@ -21317,6 +22136,7 @@ OR72045:
   title: Tyee Pavilion
   layout: campground
   categories:
+  - campground
   - or
   - tyee-pavilion
 OR402343:
@@ -21343,6 +22163,7 @@ OR402343:
   title: Umpqua Lighthouse State Park
   layout: campground
   categories:
+  - campground
   - or
   - umpqua-lighthouse-state-park
 OR75038:
@@ -21369,6 +22190,7 @@ OR75038:
   title: Umpqua Sand Camping
   layout: campground
   categories:
+  - campground
   - or
   - umpqua-sand-camping
 OR71992:
@@ -21395,6 +22217,7 @@ OR71992:
   title: Union Creek Campground
   layout: campground
   categories:
+  - campground
   - or
   - union-creek-campground
 OR405428:
@@ -21421,6 +22244,7 @@ OR405428:
   title: Unity Lake State Recreation Site
   layout: campground
   categories:
+  - campground
   - or
   - unity-lake-state-recreation-site
 OR402363:
@@ -21447,6 +22271,7 @@ OR402363:
   title: Valley Of The Rogue State Park
   layout: campground
   categories:
+  - campground
   - or
   - valley-of-the-rogue-state-park
 OR405408:
@@ -21473,6 +22298,7 @@ OR405408:
   title: WAllowa Lake State Park
   layout: campground
   categories:
+  - campground
   - or
   - wallowa-lake-state-park
 OR73824:
@@ -21499,6 +22325,7 @@ OR73824:
   title: WAlton Lake
   layout: campground
   categories:
+  - campground
   - or
   - walton-lake
 OR75029:
@@ -21525,6 +22352,7 @@ OR75029:
   title: WArner Mountain Lookout
   layout: campground
   categories:
+  - campground
   - or
   - warner-mountain-lookout
 OR75471:
@@ -21551,6 +22379,7 @@ OR75471:
   title: WAxmyrtle Campground
   layout: campground
   categories:
+  - campground
   - or
   - waxmyrtle-campground
 OR75018:
@@ -21577,6 +22406,7 @@ OR75018:
   title: Whisky Camp Guard Station
   layout: campground
   categories:
+  - campground
   - or
   - whisky-camp-guard-station
 OR404077:
@@ -21603,6 +22433,7 @@ OR404077:
   title: White Horse
   layout: campground
   categories:
+  - campground
   - or
   - white-horse
 OR71542:
@@ -21629,6 +22460,7 @@ OR71542:
   title: Whitefish Horse Camp
   layout: campground
   categories:
+  - campground
   - or
   - whitefish-horse-camp
 OR70456:
@@ -21655,6 +22487,7 @@ OR70456:
   title: Wild Mare Horse Camp
   layout: campground
   categories:
+  - campground
   - or
   - wild-mare-horse-camp
 OR74082:
@@ -21681,6 +22514,7 @@ OR74082:
   title: Wildwood Recreation Site
   layout: campground
   categories:
+  - campground
   - or
   - wildwood-recreation-site
 OR402346:
@@ -21707,6 +22541,7 @@ OR402346:
   title: William M. Tugman State Park
   layout: campground
   categories:
+  - campground
   - or
   - william-m-tugman-state-park
 OR74187:
@@ -21733,6 +22568,7 @@ OR74187:
   title: Willow Prairie Cabin
   layout: campground
   categories:
+  - campground
   - or
   - willow-prairie-cabin
 OR74117:
@@ -21759,6 +22595,7 @@ OR74117:
   title: Willow Prairie Horsecamp
   layout: campground
   categories:
+  - campground
   - or
   - willow-prairie-horsecamp
 OR71989:
@@ -21785,6 +22622,7 @@ OR71989:
   title: Windy Group Camp
   layout: campground
   categories:
+  - campground
   - or
   - windy-group-camp
 OR404078:
@@ -21811,6 +22649,7 @@ OR404078:
   title: Wolf Creek
   layout: campground
   categories:
+  - campground
   - or
   - wolf-creek
 OR74176:
@@ -21837,5 +22676,6 @@ OR74176:
   title: Wolf Creek Group Site
   layout: campground
   categories:
+  - campground
   - or
   - wolf-creek-group-site
