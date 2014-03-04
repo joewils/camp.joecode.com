@@ -5,7 +5,7 @@ task :campground_data do
     filename = '_xml/campgrounds-' + state.downcase + '.xml'
     puts filename
     if !File.exists?(filename)
-      doc = Nokogiri::XML(open('http://api.amp.active.com/camping/campgrounds?pstate='+state+'&api_key='+@active_key))
+      doc = Nokogiri::XML(open('http://api.amp.active.com/camping/campgrounds?pstate='+state+'&api_key='+@keys['active_key']))
       File.open(filename, 'w+') do |file|
         file.puts doc
       end
@@ -51,7 +51,7 @@ task :campground_data do
 
   # Get Details
   campgrounds.each do |id, campground|
-    document_path = 'http://api.amp.active.com/camping/campground/details?contractCode='+campground['contractID']+'&parkId='+campground['facilityID']+'&api_key='+@active_key
+    document_path = 'http://api.amp.active.com/camping/campground/details?contractCode='+campground['contractID']+'&parkId='+campground['facilityID']+'&api_key='+@keys['active_key']
     filename = '_xml/campground/' + id + '.xml'
     puts filename
     if !File.exists?(filename)

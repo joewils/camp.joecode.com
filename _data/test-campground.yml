@@ -1,0 +1,30 @@
+---
+WA75386:
+  agencyIcon: ''
+  agencyName: ''
+  availabilityStatus: N
+  contractID: NRSO
+  contractType: FEDERAL
+  facilityID: '75386'
+  facilityName: Middle Fork Campground
+  faciltyPhoto: /webphotos/NRSO/pid75386/0/80x53.jpg
+  latitude: '47.5486111'
+  longitude: '-121.5416667'
+  regionName: ''
+  reservationChannel: ''
+  shortName: MFCA
+  sitesWithAmps: N
+  sitesWithPetsAllowed: Y
+  sitesWithSewerHookup: N
+  sitesWithWaterHookup: N
+  sitesWithWaterfront: ''
+  state: WA
+  uid: WA75386
+  title: Middle Fork Campground
+  layout: campground
+  categories:
+  - campground
+  - wa
+  - middle-fork-campground
+
+---
