@@ -15,11 +15,21 @@ title: Home
 
     {% if post.description %}
       {{ post.description }}
+        {% if post.fullReservationUrl %}
+          <p>
+            <a href="{{ post.fullReservationUrl }}"><img class="attribution" src="/public/active/power-by--drk.png"/></a>
+            <a href="{{ post.fullReservationUrl }}"><img class="register" src="/public/active/btn_blue.png"/></a>
+          </p>
+        {% endif %}
     {% endif %}
 
-    {% if post.fullReservationUrl %}
-      <p><a href="{{ post.fullReservationUrl }}">Reserve Campground Today!</a></p>
+    {% if post.overview %}
+      {{ post.overview }}
+        {% if post.seo_title %}
+          <p><a href="http://www.everytrail.com/guide/{{post.seo_title}}">EveryTrail</a></p>
+        {% endif %}
     {% endif %}
+
   </div>
   {% endfor %}
 </div>

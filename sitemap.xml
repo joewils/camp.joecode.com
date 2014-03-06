@@ -9,6 +9,11 @@
                     <loc>http://camp.joecode.com{{ page.url }}</loc>
                 </url>
             {% endif %}
+            {% if page.layout == 'trail' %}
+                <url>
+                    <loc>http://camp.joecode.com{{ page.url }}</loc>
+                </url>
+            {% endif %}
         {% endif %}
     {% endfor %}
 </urlset>

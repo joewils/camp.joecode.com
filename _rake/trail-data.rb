@@ -67,6 +67,17 @@ task :trail_data do
         if !trail_campground_map[uid].include?(id)
           trail_campground_map[uid].push(id)
         end
+        # Build Post
+        trails[uid]['layout'] = 'trail'
+        trails[uid]['categories'] = []
+        trails[uid]['categories'][0] = 'trail'
+        trails[uid]['categories'][1] = trails[uid]['seo_title']
+        filename = '_posts/1975-05-31-' + uid + '.html'
+        puts "\t" + filename
+        File.open(filename, 'w+') do |file|
+          file.puts trails[uid].to_yaml(line_width: -1)
+          file.puts '---'
+        end
       end
     end
   end
@@ -119,9 +130,10 @@ task :trail_data do
     File.open(filename, 'w+') do |file|
       file.puts trail_campground_map.to_json
     end
+
   end
 
-  puts trails.length
+  puts trails.length.to_s + " Trails"
 
 end
 

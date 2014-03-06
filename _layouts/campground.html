@@ -3,9 +3,17 @@ layout: default
 ---
 
 <div class="post">
+  
   <h1 class="post-title">{{ page.title }}</h1>
 
   {{ page.description }}
+
+  {% if page.fullReservationUrl %}
+    <p>
+      <a href="{{ page.fullReservationUrl }}"><img class="attribution" src="/public/active/power-by--drk.png"/></a> 
+      <a href="{{ page.fullReservationUrl }}"><img class="register" src="/public/active/btn_blue.png"/></a> 
+    </p>
+  {% endif %}
 
   {% if page.photos[0] %}
   <img src="{{page.photos[0]}}"/>
@@ -23,6 +31,11 @@ layout: default
   {{ content }}
 
   {% if page.fullReservationUrl %}
-    <p><a href="{{ page.fullReservationUrl }}">Reserve Campground Today!</a></p>
+    <p>
+      <a href="{{ page.fullReservationUrl }}"><img class="attribution" src="/public/active/power-by--drk.png"/></a> 
+      <a href="{{ page.fullReservationUrl }}"><img class="register" src="/public/active/btn_blue.png"/></a> 
+    </p>
+    <p><a href="{{ page.fullReservationUrl }}">{{ page.fullReservationUrl }}</a></p>
   {% endif %}
+
 </div>
