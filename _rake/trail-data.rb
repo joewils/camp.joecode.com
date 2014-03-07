@@ -21,14 +21,14 @@ task :trail_data do
   # Search
   # /api/index/search?version=3&lat=1234&lon=1234&proximity=20
   campgrounds.each do |id,campground|
-    url = everytrail_url+'index/search?version=3&lat='+campground['latitude']+'&lon='+campground['longitude']+'&proximity=100&activities=5&sort=proximity'
+    url = everytrail_url+'index/search?version=3&lat='+campground['latitude']+'&lon='+campground['longitude']+'&proximity=20&activities=5&sort=proximity'
     filename = '_xml/campground-trails/'+id+'.xml'
     if !File.exists?(filename)
       trail_xml = Nokogiri::XML(open(url, :http_basic_authentication=>everytrail_auth))      
       File.open(filename, 'w+') do |file|
         file.puts trail_xml
       end
-      sleep(2)
+      sleep(1)
     end
   end
 
@@ -45,6 +45,7 @@ task :trail_data do
         # Trail Data
         uid = 'G'+guide.attr('id')
         trails[uid] = {}
+        trails[uid]['uid'] = uid
         trails[uid]['title'] = guide.xpath('./title').text.to_s
         trails[uid]['seo_title'] = guide.xpath('./url').text.to_s
         trails[uid]['sub_title'] = guide.xpath('./subtitle').text.to_s

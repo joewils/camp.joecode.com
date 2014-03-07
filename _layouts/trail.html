@@ -25,4 +25,13 @@ layout: default
     <p><a href="http://www.everytrail.com/guide/{{page.seo_title}}">http://www.everytrail.com/guide/{{page.seo_title}}</a></p>
   {% endif %}
 
+  {% if site.data.trail_campground_map[page.uid] %}
+    <h2>Nearby Campgrounds:</h2>
+    <ul>
+    {% for camp_id in site.data.trail_campground_map[page.uid] limit:12 %}
+      <li><a href="/{{site.data.campgrounds[camp_id].categories[0]}}/{{site.data.campgrounds[camp_id].categories[1]}}/{{site.data.campgrounds[camp_id].categories[2]}}/{{site.data.campgrounds[camp_id].uid}}.html">{{site.data.campgrounds[camp_id].title}}</a></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+
 </div>

@@ -25,7 +25,7 @@ layout: default
 
   <div id="map_canvas" style="width:100%;max-width:640px;height:480px;"></div>
 
-  <h2>Get There:</h2>
+  <h2>Driving Directions:</h2>
   {{ page.drivingDirection }}
 
   {{ content }}
@@ -36,6 +36,15 @@ layout: default
       <a href="{{ page.fullReservationUrl }}"><img class="register" src="/public/active/btn_blue.png"/></a> 
     </p>
     <p><a href="{{ page.fullReservationUrl }}">{{ page.fullReservationUrl }}</a></p>
+  {% endif %}
+
+  {% if site.data.campground_trail_map[page.uid] %}
+    <h2>Nearby Hiking Trails:</h2>
+    <ul>
+    {% for trail_id in site.data.campground_trail_map[page.uid] limit:12 %}
+      <li><a href="/trail/{{site.data.trails[trail_id].seo_title}}/{{trail_id}}.html">{{site.data.trails[trail_id].title}}</a></li>
+    {% endfor %}
+    </ul>
   {% endif %}
 
 </div>
