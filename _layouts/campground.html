@@ -41,7 +41,7 @@ layout: default
   {% if site.data.campground_trail_map[page.uid] %}
     <h2>Nearby Hiking Trails:</h2>
     <ul>
-    {% for trail_id in site.data.campground_trail_map[page.uid] limit:12 %}
+    {% for trail_id in site.data.campground_trail_map[page.uid] %}
       <li><a href="/trail/{{site.data.trails[trail_id].seo_title}}/{{trail_id}}.html">{{site.data.trails[trail_id].title}}</a></li>
     {% endfor %}
     </ul>
